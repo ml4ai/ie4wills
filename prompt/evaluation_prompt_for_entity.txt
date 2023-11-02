@@ -1,0 +1,100 @@
+﻿%%Instructions: Your task is to identify all the instances (including pronouns) of TESTATOR, BENEFICIARY, WILL, and ASSET from the will statement provided. Refer to the example and the extracted information below as a guide to accurately complete the task. Fill in the relevant information for each category mentioned.
+%%Example:
+Will Text: ARTICLE 3. All the rest. residue and remainder of the property which I may own at my death, real, personal or mixed, tangible or intangible, of whatsoever nature and wheresoever situated including all property which I may acquire or become entitled to after the execution of this Will I bequeath and devise to my husband, [Person-3], if he be living at my death, and if he is not living at my death, I bequeath and devise this property to my son [Person-2].
+---
+Annotation Text: I
+Start Index: 69
+End Index: 70
+Annotation Labels: ['TESTATOR']
+---
+Annotation Text: my
+Start Index: 82
+End Index: 84
+Annotation Labels: ['TESTATOR']
+---
+Annotation Text: I
+Start Index: 216
+End Index: 217
+Annotation Labels: ['TESTATOR']
+---
+Annotation Text: I
+Start Index: 285
+End Index: 286
+Annotation Labels: ['TESTATOR']
+---
+Annotation Text: my
+Start Index: 310
+End Index: 312
+Annotation Labels: ['TESTATOR']
+---
+Annotation Text: my
+Start Index: 353
+End Index: 355
+Annotation Labels: ['TESTATOR']
+---
+Annotation Text: my 
+Start Index: 390
+End Index: 392
+Annotation Labels: ['TESTATOR']
+---
+Annotation Text: I
+Start Index: 400
+End Index: 401
+Annotation Labels: ['TESTATOR']
+---
+Annotation Text: my
+Start Index: 439
+End Index: 441
+Annotation Labels: ['TESTATOR']
+---
+Annotation Text: my husband
+Start Index: 310
+End Index: 320
+Annotation Labels: ['BENEFICIARY']
+---
+Annotation Text: [Person-3]
+Start Index: 322
+End Index: 332
+Annotation Labels: ['BENEFICIARY']
+---
+Annotation Text: he
+Start Index: 337
+End Index: 339
+Annotation Labels: ['BENEFICIARY']
+---
+Annotation Text: he
+Start Index: 370
+End Index: 372
+Annotation Labels: ['BENEFICIARY']
+---
+Annotation Text: this property
+Start Index: 422
+End Index: 435
+Annotation Labels: ['ASSET']
+---
+Annotation Text: my son
+Start Index: 439
+End Index: 445
+Annotation Labels: ['BENEFICIARY']
+---
+Annotation Text: [Person-2]
+Start Index: 446
+End Index: 456
+Annotation Labels: ['BENEFICIARY']
+---
+Annotation Text: All the rest. residue and remainder of the property
+Start Index: 11
+End Index: 62
+Annotation Labels: ['ASSET']
+---
+Annotation Text: real, personal or mixed, tangible or intangible, of whatsoever nature and wheresoever situated including all property which I may acquire or become entitled to after the execution of this Will
+Start Index: 92
+End Index: 284
+Annotation Labels: ['ASSET']
+---
+Annotation Text: this Will
+Start Index: 275
+End Index: 284
+Annotation Labels: ['WILL']
+---
+%%Extract the relevant information from the following will statement and complete the form provided below:

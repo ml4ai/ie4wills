@@ -1,0 +1,4376 @@
+Will Text: I, [Person-1] of the [Address-1], County of Cassia and State of Idaho, of the age of 72 years, being of sound mind and memory, and not acting under duress, menace, fraud or undue influence of any person whomsoever, do make, publish, and declare this my Last Will and Testament in manner and form following, to-wit: 
+---
+Annotation ID: 18798872
+---
+Entity ID: i7r52xPaxP
+Annotation Text: I
+Start Index: 0
+End Index: 1
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: mQM0sFOuZ5
+Annotation Text: [Person-1]
+Start Index: 3
+End Index: 13
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: pdJtiCd3QE
+Annotation Text: this
+Start Index: 245
+End Index: 249
+Annotation Labels: ['WILL']
+---
+Entity ID: UnIrowZvp1
+Annotation Text: my
+Start Index: 250
+End Index: 252
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: MlI0LHBlgl
+Annotation Text: my Last Will and Testament
+Start Index: 250
+End Index: 276
+Annotation Labels: ['WILL']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: pdJtiCd3QE
+from_id: UnIrowZvp1
+---
+===================================
+Will Text: FIRST, It is my will, and I do order, that all by just debts and funeral expenses be duly paid and satisfied as soon as conveniently can be done after my decease. 
+---
+Annotation ID: 18798947
+---
+Entity ID: shYYR7FHHt
+Annotation Text: my
+Start Index: 13
+End Index: 15
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: qyi2ze-7aa
+Annotation Text: my will
+Start Index: 13
+End Index: 20
+Annotation Labels: ['WILL']
+---
+Entity ID: CH5HMKSzI2
+Annotation Text: I
+Start Index: 26
+End Index: 27
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: fa6Xo7wcsF
+Annotation Text: my
+Start Index: 151
+End Index: 153
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: qyi2ze-7aa
+from_id: shYYR7FHHt
+---
+===================================
+Will Text: SECOND, I give, devise and bequeath unto my spouse, [Person-2] all real property, together with all the rest, residue, and remainder of my estate, real, personal and mixed, of every kind and nature and wheresoever situated, of which I now owned, possessed, including all other community personal property that may hereafter be acquired, or to which I may be entitled at the time of my decease. 
+---
+Annotation ID: 18799488
+---
+Entity ID: y3_6vvuoZp
+Annotation Text: I
+Start Index: 8
+End Index: 9
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: SspA_BZTNn
+Annotation Text: my
+Start Index: 41
+End Index: 43
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: NSzOiO32hZ
+Annotation Text: my spouse
+Start Index: 41
+End Index: 50
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: iHSfBz386F
+Annotation Text: [Person-2]
+Start Index: 52
+End Index: 62
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 1d0IAhUwEB
+Annotation Text: all real property
+Start Index: 63
+End Index: 80
+Annotation Labels: ['ASSET']
+---
+Entity ID: bCHX0fPtVU
+Annotation Text: all the rest, residue, and remainder of my estate, real, personal and mixed, of every kind and nature and wheresoever situated, of which I now owned, possessed
+Start Index: 96
+End Index: 255
+Annotation Labels: ['ASSET']
+---
+Entity ID: f8yU_uiCKZ
+Annotation Text: my 
+Start Index: 136
+End Index: 138
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: HFVesjFYu6
+Annotation Text: I
+Start Index: 233
+End Index: 234
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: axHuduq1vj
+Annotation Text: all other community personal property that may hereafter be acquired, or to which I may be entitled at the time of my decease
+Start Index: 267
+End Index: 392
+Annotation Labels: ['ASSET']
+---
+Entity ID: FkIeoNo_km
+Annotation Text: I
+Start Index: 349
+End Index: 350
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: LxLcf7WVcS
+Annotation Text: my
+Start Index: 382
+End Index: 384
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: NSzOiO32hZ
+from_id: SspA_BZTNn
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: 1d0IAhUwEB
+from_id: SspA_BZTNn
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: bCHX0fPtVU
+from_id: f8yU_uiCKZ
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: axHuduq1vj
+from_id: FkIeoNo_km
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 1d0IAhUwEB
+from_id: iHSfBz386F
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: bCHX0fPtVU
+from_id: iHSfBz386F
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: axHuduq1vj
+from_id: iHSfBz386F
+---
+===================================
+Will Text: THIRD, I nominate, constitute and appoint [Person-3], to be the executor of this, my Last Will. 
+---
+Annotation ID: 18799553
+---
+Entity ID: 4C6F_WaJtg
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: X6zWlOLNBF
+Annotation Text: this
+Start Index: 76
+End Index: 80
+Annotation Labels: ['WILL']
+---
+Entity ID: N59fjYAT42
+Annotation Text: my
+Start Index: 82
+End Index: 84
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: zzmTbS11Tp
+Annotation Text: my Last Will
+Start Index: 82
+End Index: 94
+Annotation Labels: ['WILL']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: X6zWlOLNBF
+from_id: N59fjYAT42
+---
+===================================
+Will Text: IN WITNESS WHEREOF I have hereunto set my hand this day of 1987.
+---
+Annotation ID: 18799602
+---
+Entity ID: usy7lOGPGr
+Annotation Text: I
+Start Index: 19
+End Index: 20
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 2zkyEP58ml
+Annotation Text: my
+Start Index: 39
+End Index: 41
+Annotation Labels: ['TESTATOR']
+---
+===================================
+Will Text: The foregoing instrument, was this 2nd day of December, 1987 subscribed by the testator in our presence and was at the same time declared by him to be his Last Will and Testament, and we at the same time, in his presence, at his request and in the presence of each other have hereunto subscribed our names as attesting witnesses. And we do hereby certify that at the time of the execution of said Will the said testator, [Person-1] was of sound and disposing mind, memory and understanding. 
+---
+Annotation ID: 18799931
+---
+Entity ID: n1BMvKhPOi
+Annotation Text: The foregoing instrument
+Start Index: 0
+End Index: 24
+Annotation Labels: ['WILL']
+---
+Entity ID: Sb9uUMUFA5
+Annotation Text: the testator
+Start Index: 75
+End Index: 87
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: YhFOgCqJ2Q
+Annotation Text: him
+Start Index: 141
+End Index: 144
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: I0GQcJyZAG
+Annotation Text: his
+Start Index: 151
+End Index: 154
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: sJwbUmV9N5
+Annotation Text: his Last Will and Testament
+Start Index: 151
+End Index: 178
+Annotation Labels: ['WILL']
+---
+Entity ID: YF0zbxQ1pY
+Annotation Text: his
+Start Index: 208
+End Index: 211
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: pX5CT3ylFr
+Annotation Text: his
+Start Index: 225
+End Index: 228
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: PNCu7jFzAU
+Annotation Text: said Will
+Start Index: 392
+End Index: 401
+Annotation Labels: ['WILL']
+---
+Entity ID: 530bS6Iq-n
+Annotation Text: the said testator
+Start Index: 402
+End Index: 419
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: nDRU8SMSjO
+Annotation Text: [Person-1]
+Start Index: 421
+End Index: 431
+Annotation Labels: ['TESTATOR']
+---
+===================================
+Will Text: I, [Person-1] of the county of Minidoka, state of Idaho, being of legal age and of sound and disposing mind and memory, and not acting under duress, menace, or undue influence of any person or persons whomsoever, do hereby make, publish and declare this to be my LAST WILL. AND TESTAMENT' hereby revoking all other and former wills and testamentary papers of any kind heretofore made by me, and dispose of my property in the following manner, to wit:
+---
+Annotation ID: 18800253
+---
+Entity ID: iBtGUR6Ix2
+Annotation Text: I
+Start Index: 0
+End Index: 1
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: kd1U7hrBFW
+Annotation Text: [Person-1]
+Start Index: 3
+End Index: 13
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ctgm1bSvr3
+Annotation Text: this
+Start Index: 249
+End Index: 253
+Annotation Labels: ['WILL']
+---
+Entity ID: X_yFhfq9Xc
+Annotation Text: my
+Start Index: 260
+End Index: 262
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 8CXBw6p1H4
+Annotation Text: my LAST WILL. AND TESTAMENT
+Start Index: 260
+End Index: 287
+Annotation Labels: ['WILL']
+---
+Entity ID: A2y_HG_SHr
+Annotation Text: all other and former wills and testamentary papers of any kind
+Start Index: 305
+End Index: 367
+Annotation Labels: ['WILL']
+---
+Entity ID: bli4s5LyJd
+Annotation Text: me
+Start Index: 387
+End Index: 389
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: n83SPU9GJD
+Annotation Text: my 
+Start Index: 406
+End Index: 408
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ruFAwBU9LK
+Annotation Text: my property
+Start Index: 406
+End Index: 417
+Annotation Labels: ['ASSET']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: ctgm1bSvr3
+from_id: X_yFhfq9Xc
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: A2y_HG_SHr
+from_id: bli4s5LyJd
+---
+===================================
+Will Text: FIRST: I direct that my personal representative, as soon as sufficient funds are on hand, pay the expenses of my last illness and funeral, together with all of my just debts.
+---
+Annotation ID: 18800328
+---
+Entity ID: _fviRf8gqR
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: PFs9SXkbAZ
+Annotation Text: my
+Start Index: 21
+End Index: 23
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: mxJc7yBTWU
+Annotation Text: sufficient funds
+Start Index: 60
+End Index: 76
+Annotation Labels: ['ASSET']
+---
+Entity ID: U_VOZO_uCb
+Annotation Text: my
+Start Index: 110
+End Index: 112
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 9ZoGxQXtlf
+Annotation Text: my
+Start Index: 160
+End Index: 162
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: mxJc7yBTWU
+from_id: PFs9SXkbAZ
+---
+===================================
+Will Text: THIRD: It is my intention to make a separate written instrument, leaving items of tangible personal property to various people, as allowed by §15-2-513 of the Idaho Code. If I leave no such separate written instrument, then said property shall pass as it would under my Will without such instrument.
+---
+Annotation ID: 18800476
+---
+Entity ID: tQOzpKkz_U
+Annotation Text: my
+Start Index: 13
+End Index: 15
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 1OvGj5f8nq
+Annotation Text: items of tangible personal property
+Start Index: 73
+End Index: 108
+Annotation Labels: ['ASSET']
+---
+Entity ID: Zj1RX9unhP
+Annotation Text: various people
+Start Index: 112
+End Index: 126
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: TTnmhsgQGn
+Annotation Text: I
+Start Index: 174
+End Index: 175
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 1j7-YFfQS0
+Annotation Text: said property
+Start Index: 224
+End Index: 237
+Annotation Labels: ['ASSET']
+---
+Entity ID: inbR3b8Bst
+Annotation Text: my
+Start Index: 267
+End Index: 269
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: BfElD2wjEm
+Annotation Text: my Will
+Start Index: 267
+End Index: 274
+Annotation Labels: ['WILL']
+---
+Entity ID: za5644YZ9n
+Annotation Text: it
+Start Index: 252
+End Index: 254
+Annotation Labels: ['ASSET']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: 1OvGj5f8nq
+from_id: tQOzpKkz_U
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: Zj1RX9unhP
+from_id: TTnmhsgQGn
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 1OvGj5f8nq
+from_id: Zj1RX9unhP
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: BfElD2wjEm
+from_id: inbR3b8Bst
+---
+===================================
+Will Text: FOURTH: I give, devise and bequeath all of the property of which I die possessed, including real, personal or mixed property of whatever nature or kind, to my children, [Person-2], [Person-3], [Person-4], and [Person-5], in equal shares, share and share alike, the children of a deceased child of mine to take the parent's share in equal shares.
+---
+Annotation ID: 18800720
+---
+Entity ID: Wh9qwLzt1p
+Annotation Text: I
+Start Index: 8
+End Index: 9
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: fiByAHV3tn
+Annotation Text: all of the property of which I die possessed, including real, personal or mixed property of whatever nature or kind
+Start Index: 36
+End Index: 151
+Annotation Labels: ['ASSET']
+---
+Entity ID: AoW623Jl2e
+Annotation Text: I
+Start Index: 65
+End Index: 66
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: XyOxirHEgU
+Annotation Text: my
+Start Index: 156
+End Index: 158
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: eY6A1PjO7u
+Annotation Text: my children
+Start Index: 156
+End Index: 167
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: nQYGPWlukR
+Annotation Text: my children
+Start Index: 156
+End Index: 167
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: r3J9R-iVAe
+Annotation Text: my children
+Start Index: 156
+End Index: 167
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: pwBDx7nSTR
+Annotation Text: my children
+Start Index: 156
+End Index: 167
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: Ix1TWzaEJx
+Annotation Text: [Person-2]
+Start Index: 169
+End Index: 179
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: VjhDXgKS18
+Annotation Text: [Person-3]
+Start Index: 181
+End Index: 191
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: BrQjFOpQ7a
+Annotation Text: [Person-4]
+Start Index: 193
+End Index: 203
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: r6EaeSJitW
+Annotation Text: [Person-5]
+Start Index: 209
+End Index: 219
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: yl_xK_8t6E
+Annotation Text: the children of a deceased child of mine
+Start Index: 261
+End Index: 301
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 3IN8h8MaOW
+Annotation Text: mine
+Start Index: 297
+End Index: 301
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: TdNpJzPvO3
+Annotation Text: a deceased child of mine
+Start Index: 277
+End Index: 301
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: m-59tqYi9d
+Annotation Text: the parent
+Start Index: 310
+End Index: 320
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: -98TXChaO2
+Annotation Text: the parent's share
+Start Index: 310
+End Index: 328
+Annotation Labels: ['ASSET']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: fiByAHV3tn
+from_id: AoW623Jl2e
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: Ix1TWzaEJx
+from_id: XyOxirHEgU
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: VjhDXgKS18
+from_id: XyOxirHEgU
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: BrQjFOpQ7a
+from_id: XyOxirHEgU
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: r6EaeSJitW
+from_id: XyOxirHEgU
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: -98TXChaO2
+from_id: m-59tqYi9d
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: -98TXChaO2
+from_id: yl_xK_8t6E
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: -98TXChaO2
+from_id: 3IN8h8MaOW
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: fiByAHV3tn
+from_id: Ix1TWzaEJx
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: fiByAHV3tn
+from_id: VjhDXgKS18
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: fiByAHV3tn
+from_id: BrQjFOpQ7a
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: fiByAHV3tn
+from_id: r6EaeSJitW
+---
+===================================
+Will Text: FIFTH: I direct that all estate, inheritance, transfer, legacy, succession, and other death taxes and duties of any nature by reason of my death which may be assessed or imposed upon or with respect to property passing under this Will shall be paid out of my estate as an expense of administration and no part of said taxes shall be apportioned or prorated to any legatee or devisee under this Will or any person owning or receiving any property, including life insurance not passing under this Will.
+---
+Annotation ID: 18814374
+---
+Entity ID: PNaZZunjGc
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: BCrXOuA6uk
+Annotation Text: my
+Start Index: 136
+End Index: 138
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: bRjUwWVLW3
+Annotation Text: this Will
+Start Index: 225
+End Index: 234
+Annotation Labels: ['WILL']
+---
+Entity ID: cB7TOavNRa
+Annotation Text: my
+Start Index: 256
+End Index: 258
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: MuW-Oz6805
+Annotation Text: my estate
+Start Index: 256
+End Index: 265
+Annotation Labels: ['ASSET']
+---
+Entity ID: h4PqUxguL_
+Annotation Text: legatee
+Start Index: 364
+End Index: 371
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: z50aYTDGXa
+Annotation Text: devisee
+Start Index: 375
+End Index: 382
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: mYRaYnTb-M
+Annotation Text: this Will
+Start Index: 389
+End Index: 398
+Annotation Labels: ['WILL']
+---
+Entity ID: 9DF3rFG4Fn
+Annotation Text: any person owning or receiving any property
+Start Index: 402
+End Index: 445
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 3BYPfZOWEI
+Annotation Text: life insurance not passing under this Will
+Start Index: 457
+End Index: 499
+Annotation Labels: ['ASSET']
+---
+Entity ID: 6wRY2ddX7H
+Annotation Text: this Will
+Start Index: 490
+End Index: 499
+Annotation Labels: ['WILL']
+---
+Entity ID: x32iHJMTmD
+Annotation Text: property passing under this Will
+Start Index: 202
+End Index: 234
+Annotation Labels: ['ASSET']
+---
+Entity ID: vOVyW4H3q1
+Annotation Text: any property
+Start Index: 433
+End Index: 445
+Annotation Labels: ['ASSET']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: x32iHJMTmD
+from_id: cB7TOavNRa
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: bRjUwWVLW3
+from_id: cB7TOavNRa
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: MuW-Oz6805
+from_id: cB7TOavNRa
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: h4PqUxguL_
+from_id: cB7TOavNRa
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: z50aYTDGXa
+from_id: cB7TOavNRa
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: 9DF3rFG4Fn
+from_id: cB7TOavNRa
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: x32iHJMTmD
+from_id: h4PqUxguL_
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: MuW-Oz6805
+from_id: h4PqUxguL_
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: x32iHJMTmD
+from_id: z50aYTDGXa
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: MuW-Oz6805
+from_id: z50aYTDGXa
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: vOVyW4H3q1
+from_id: 9DF3rFG4Fn
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 3BYPfZOWEI
+from_id: 9DF3rFG4Fn
+---
+===================================
+Will Text: SIXTH: I hereby nominate and appoint my daughter, [Person-2], as personal representative of this, my LAST WILL and TESTAMENT, PROVIDED that in the event said daughter does not survive me or in the event such daughter is unable or unwilling to act, then I hereby nominate and appoint [Person-3] to serve as personal representative.
+---
+Annotation ID: 18814525
+---
+Entity ID: G3vpZHFCBn
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: -NvJ7KTS9R
+Annotation Text: my
+Start Index: 37
+End Index: 39
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: h_oDcVoX_8
+Annotation Text: this
+Start Index: 92
+End Index: 96
+Annotation Labels: ['WILL']
+---
+Entity ID: ktuiuOXqm3
+Annotation Text: my
+Start Index: 98
+End Index: 100
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: uwz2dZJHyB
+Annotation Text: my LAST WILL and TESTAMENT
+Start Index: 98
+End Index: 124
+Annotation Labels: ['WILL']
+---
+Entity ID: uZlvwOpMfH
+Annotation Text: me
+Start Index: 184
+End Index: 186
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Cgb8tLhnOw
+Annotation Text: I
+Start Index: 253
+End Index: 254
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: h_oDcVoX_8
+from_id: ktuiuOXqm3
+---
+===================================
+Will Text: SEVENTH: In the event any person claiming to be an heir contests this Will or any portion thereof, then he is to receive the sum of One Dollar ($1. 00) and no more.
+---
+Annotation ID: 18800793
+---
+Entity ID: XzK_s-4PFv
+Annotation Text: any person claiming to be an heir
+Start Index: 22
+End Index: 55
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 7glXHEmQ3A
+Annotation Text: this Will
+Start Index: 65
+End Index: 74
+Annotation Labels: ['WILL']
+---
+Entity ID: FweR-Ua2WA
+Annotation Text: he
+Start Index: 104
+End Index: 106
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: eO_Vly-1I-
+Annotation Text: the sum of One Dollar ($1. 00)
+Start Index: 121
+End Index: 151
+Annotation Labels: ['ASSET']
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: eO_Vly-1I-
+from_id: FweR-Ua2WA
+---
+===================================
+Will Text: IN WITNESS WHEREOF I, [Person-1], the testator sign my name to this instrument this 8th day of March, 1989, and being first duly sworn, do hereby declare to the undersigned authority that I sign and execute this instrument as my Last Will and that I sign it willingly, that I execute it as my free and voluntary act for the purposes therein expressed, and that I am 18 years of age or older, of sound mind, and under no constraint or undue influence. 
+---
+Annotation ID: 18814854
+---
+Entity ID: mPPxbB2_D2
+Annotation Text: I
+Start Index: 19
+End Index: 20
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: hqZJ9bix4k
+Annotation Text: [Person-1]
+Start Index: 22
+End Index: 32
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 3XjzqRjjcj
+Annotation Text: the testator
+Start Index: 34
+End Index: 46
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: liVHexx-Ss
+Annotation Text: my
+Start Index: 52
+End Index: 54
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Zw6baJCf5b
+Annotation Text: this instrument
+Start Index: 63
+End Index: 78
+Annotation Labels: ['WILL']
+---
+Entity ID: _lLbx35YP-
+Annotation Text: I
+Start Index: 188
+End Index: 189
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: nMa-pJooJ3
+Annotation Text: this instrument
+Start Index: 207
+End Index: 222
+Annotation Labels: ['WILL']
+---
+Entity ID: GJ86p-2Lg6
+Annotation Text: my
+Start Index: 226
+End Index: 228
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 4YM8uvDohk
+Annotation Text: my Last Will
+Start Index: 226
+End Index: 238
+Annotation Labels: ['WILL']
+---
+Entity ID: MgBS9zOVNj
+Annotation Text: I
+Start Index: 248
+End Index: 249
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ocRaWgPphv
+Annotation Text: it
+Start Index: 255
+End Index: 257
+Annotation Labels: ['WILL']
+---
+Entity ID: eHXBSh_xpV
+Annotation Text: I
+Start Index: 274
+End Index: 275
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: cD1l_FgHsV
+Annotation Text: it 
+Start Index: 284
+End Index: 286
+Annotation Labels: ['WILL']
+---
+Entity ID: Skb-vb-1-u
+Annotation Text: my
+Start Index: 290
+End Index: 292
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ZEEvESLniR
+Annotation Text: I
+Start Index: 361
+End Index: 362
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: Zw6baJCf5b
+from_id: liVHexx-Ss
+---
+===================================
+Will Text: We [Person-6] and [Person-7] the witnesses, sign our names to this instrument, being first duly sworn, and do hereby declare to the undersigned authority that the Testator signs and executes this instrument as his last will and that he signs it willingly and that each of us, in the presence and hearing of the Testator hereby signs this will as witness to the Testator's signing, and that to the best of his knowledge the Testator is eighteen (18) years of age or older, of sound mind, and under no constraint or undue influence.
+---
+Annotation ID: 18815218
+---
+Entity ID: Zn9aTS0vpl
+Annotation Text: this instrument
+Start Index: 62
+End Index: 77
+Annotation Labels: ['WILL']
+---
+Entity ID: Uexuc6Dc21
+Annotation Text: the Testator
+Start Index: 159
+End Index: 171
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: wsOi8XdFXa
+Annotation Text: this instrument
+Start Index: 191
+End Index: 206
+Annotation Labels: ['WILL']
+---
+Entity ID: nllb5SuF1V
+Annotation Text: his
+Start Index: 210
+End Index: 213
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 33eB6x0oj6
+Annotation Text: his last will
+Start Index: 210
+End Index: 223
+Annotation Labels: ['WILL']
+---
+Entity ID: EnVD_VgTkA
+Annotation Text: he
+Start Index: 233
+End Index: 235
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: M9PVK7jnvt
+Annotation Text: it
+Start Index: 242
+End Index: 244
+Annotation Labels: ['WILL']
+---
+Entity ID: f0YtS3N_7u
+Annotation Text: the Testator
+Start Index: 307
+End Index: 319
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: jkbY9bg05a
+Annotation Text: this will
+Start Index: 333
+End Index: 342
+Annotation Labels: ['WILL']
+---
+Entity ID: iEhVpPqg63
+Annotation Text: the Testator
+Start Index: 357
+End Index: 369
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 33IjU4CFbO
+Annotation Text: the Testator
+Start Index: 419
+End Index: 431
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: znJsdrYGsI
+Annotation Text: his
+Start Index: 405
+End Index: 408
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: wsOi8XdFXa
+from_id: Uexuc6Dc21
+---
+===================================
+Will Text: I, [Person-1], over the age of eighteen (18) years, a citizen of the State of Idaho and a resident of the County of Cassia, State of Idaho, being of sound and disposing mind and not under restraint or undue influence, do make, publish and declare this to be my Last Will and Testament, hereby revoking all other Wills by me made.
+---
+Annotation ID: 19096062
+---
+Entity ID: O0_bn_ieE8
+Annotation Text: I
+Start Index: 0
+End Index: 1
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 5ewMLStxbt
+Annotation Text: [Person-1]
+Start Index: 3
+End Index: 13
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ylOQJiOdkZ
+Annotation Text: a citizen of the State of Idaho
+Start Index: 52
+End Index: 83
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: -7aKFOsPON
+Annotation Text: a resident of the County of Cassia
+Start Index: 88
+End Index: 122
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: AouCT3GEjr
+Annotation Text: this
+Start Index: 247
+End Index: 251
+Annotation Labels: ['WILL']
+---
+Entity ID: qa6nIXeRs9
+Annotation Text: my 
+Start Index: 258
+End Index: 260
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: EVhlYoFMdB
+Annotation Text: my Last Will and Testament
+Start Index: 258
+End Index: 284
+Annotation Labels: ['WILL']
+---
+Entity ID: oIJNvtDN3F
+Annotation Text: all other Wills
+Start Index: 302
+End Index: 317
+Annotation Labels: ['WILL']
+---
+Entity ID: y6scRaw88D
+Annotation Text: me
+Start Index: 321
+End Index: 323
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: AouCT3GEjr
+from_id: qa6nIXeRs9
+---
+Annotation ID: 19032051
+---
+Entity ID: 5fkDfqfe_S
+Annotation Text: I
+Start Index: 0
+End Index: 1
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 1b04Lje8GJ
+Annotation Text: [Person-1]
+Start Index: 3
+End Index: 13
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: uC7pyp7gSu
+Annotation Text: this
+Start Index: 247
+End Index: 251
+Annotation Labels: ['WILL']
+---
+Entity ID: 643wTw3n_Q
+Annotation Text: my Last Will and Testament
+Start Index: 258
+End Index: 284
+Annotation Labels: ['WILL']
+---
+Entity ID: y8gcEexceZ
+Annotation Text: all other Wills
+Start Index: 302
+End Index: 317
+Annotation Labels: ['WILL']
+---
+Entity ID: AR_fOPMWR4
+Annotation Text: me
+Start Index: 321
+End Index: 323
+Annotation Labels: ['TESTATOR']
+---
+===================================
+Will Text: FIRST: I declare that my estate whereof I may die possessed is community property of my spouse, [Person-2], and myself.
+---
+Annotation ID: 19096111
+---
+Entity ID: B4qA07nrAr
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: TClxZPYtgn
+Annotation Text: my
+Start Index: 22
+End Index: 24
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: AvVHHzajqU
+Annotation Text: my estate whereof I may die possessed
+Start Index: 22
+End Index: 59
+Annotation Labels: ['ASSET']
+---
+Entity ID: jLlzBvld2L
+Annotation Text: I
+Start Index: 40
+End Index: 41
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: bNZfJVkAMW
+Annotation Text: my
+Start Index: 85
+End Index: 87
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: u8QgVe3632
+Annotation Text: myself
+Start Index: 112
+End Index: 118
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: zSBiqMZ-11
+Annotation Text: my spouse
+Start Index: 85
+End Index: 94
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: WyrAHORFhF
+Annotation Text: [Person-2]
+Start Index: 96
+End Index: 106
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: ldPLu1ok8c
+Annotation Text: community property of my spouse, [Person-2], and myself
+Start Index: 63
+End Index: 118
+Annotation Labels: ['ASSET']
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: zSBiqMZ-11
+from_id: bNZfJVkAMW
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: AvVHHzajqU
+from_id: TClxZPYtgn
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: ldPLu1ok8c
+from_id: zSBiqMZ-11
+---
+Annotation ID: 19032092
+---
+Entity ID: bNpEF4IXSj
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: VtXJOLRM-y
+Annotation Text: my
+Start Index: 22
+End Index: 24
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: viZK1MXlSG
+Annotation Text: I
+Start Index: 40
+End Index: 41
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Byoz3x9X9d
+Annotation Text: my estate
+Start Index: 22
+End Index: 31
+Annotation Labels: ['ASSET']
+---
+Entity ID: jB-Uf1_nEw
+Annotation Text: myself
+Start Index: 112
+End Index: 118
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Xye7A964iP
+Annotation Text: my
+Start Index: 85
+End Index: 87
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: Byoz3x9X9d
+from_id: VtXJOLRM-y
+---
+===================================
+Will Text: SECOND: It is my will that my debts and the charges of my funeral be paid as soon as conveniently may be after my death.
+---
+Annotation ID: 19096137
+---
+Entity ID: H81zWyF0I-
+Annotation Text: my
+Start Index: 14
+End Index: 16
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 9R-G3O6r9P
+Annotation Text: my
+Start Index: 27
+End Index: 29
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: X1vMuLizZi
+Annotation Text: my
+Start Index: 55
+End Index: 57
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: t1mlfPvXpM
+Annotation Text: my
+Start Index: 111
+End Index: 113
+Annotation Labels: ['TESTATOR']
+---
+Annotation ID: 19032141
+---
+Entity ID: MmTYSDEtLM
+Annotation Text: my
+Start Index: 14
+End Index: 16
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: aqlfn9YqBS
+Annotation Text: my
+Start Index: 27
+End Index: 29
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ICbKtpObE2
+Annotation Text: my
+Start Index: 55
+End Index: 57
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: EM_2xzQiuX
+Annotation Text: my
+Start Index: 111
+End Index: 113
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: yrupIZRAlb
+Annotation Text: my will
+Start Index: 14
+End Index: 21
+Annotation Labels: ['WILL']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: yrupIZRAlb
+from_id: MmTYSDEtLM
+---
+===================================
+Will Text: THIRD: I give and devise all of my estate, both separate and community, both real and personal, in the following manner: I hereby give, devise and bequeath unto my beloved spouse, [Person-2], all of my estate, real, personal and mixed, of every nature, kind and description, wherever situated and however held, which is or may be subject to my testamentary disposition at the time of my death. 
+---
+Annotation ID: 19096178
+---
+Entity ID: O9rjSnulu5
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 7w4_7zYHHX
+Annotation Text: my
+Start Index: 32
+End Index: 34
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: GIruR22vT2
+Annotation Text: all of my estate, both separate and community, both real and personal
+Start Index: 25
+End Index: 94
+Annotation Labels: ['ASSET']
+---
+Entity ID: Qq8VIkVRHN
+Annotation Text: I
+Start Index: 121
+End Index: 122
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: t0Kbiwx98R
+Annotation Text: my
+Start Index: 161
+End Index: 163
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 6A9YFyb7mD
+Annotation Text: my beloved spouse
+Start Index: 161
+End Index: 178
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: rMjXgIjGmh
+Annotation Text: [Person-2]
+Start Index: 180
+End Index: 190
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: YIJEpy4HB7
+Annotation Text: all of my estate, real, personal and mixed, of every nature, kind and description, wherever situated and however held, which is or may be subject to my testamentary disposition at the time of my death
+Start Index: 192
+End Index: 392
+Annotation Labels: ['ASSET']
+---
+Entity ID: BDXIAMQZ_R
+Annotation Text: my 
+Start Index: 341
+End Index: 343
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: xj5mPDEArr
+Annotation Text: my testamentary disposition
+Start Index: 341
+End Index: 368
+Annotation Labels: ['WILL']
+---
+Entity ID: OsXtDP78PS
+Annotation Text: my
+Start Index: 384
+End Index: 386
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: GIruR22vT2
+from_id: 7w4_7zYHHX
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: 6A9YFyb7mD
+from_id: t0Kbiwx98R
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: xj5mPDEArr
+from_id: BDXIAMQZ_R
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: YIJEpy4HB7
+from_id: rMjXgIjGmh
+---
+Annotation ID: 19032208
+---
+Entity ID: d32NtI3cdW
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: -v4yoJ60EI
+Annotation Text: my
+Start Index: 32
+End Index: 34
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: fjvBdSTCmO
+Annotation Text: I
+Start Index: 121
+End Index: 122
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: -vmVChSUf1
+Annotation Text: my
+Start Index: 161
+End Index: 163
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: W9lsJNGcJO
+Annotation Text: my
+Start Index: 341
+End Index: 343
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: WIJDFvktcV
+Annotation Text: my
+Start Index: 384
+End Index: 386
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: LxflLrGkA4
+Annotation Text: all of my estate, both separate and community, both real and personal
+Start Index: 25
+End Index: 94
+Annotation Labels: ['ASSET']
+---
+Entity ID: h41YQWCto9
+Annotation Text: my beloved spouse
+Start Index: 161
+End Index: 178
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: ObEehuXscw
+Annotation Text: [Person-2]
+Start Index: 180
+End Index: 190
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: aAWJMzwgXo
+Annotation Text: my
+Start Index: 199
+End Index: 201
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: XbnUZVuep8
+Annotation Text: all of my estate, real, personal and mixed, of every nature, kind and description, wherever situated and however held
+Start Index: 192
+End Index: 309
+Annotation Labels: ['ASSET']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: LxflLrGkA4
+from_id: -v4yoJ60EI
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: h41YQWCto9
+from_id: -vmVChSUf1
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: XbnUZVuep8
+from_id: aAWJMzwgXo
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: XbnUZVuep8
+from_id: h41YQWCto9
+---
+===================================
+Will Text: FOURTH: In the event of the demise of my beloved spouse, [Person-2], before my death, I give, devise and bequeath 10% of my net estate to the [Organization-1], Idaho, and all the residue of my estate, both real and personal of whatever kind the same may be and wherever situated of which I may die possessed, or to which I may be entitled, to [Person-3], [Person-4], [Person-5] and [Person-6] in equal shares, share and share alike.
+---
+Annotation ID: 19097367
+---
+Entity ID: 4GjVpHCWNc
+Annotation Text: my
+Start Index: 38
+End Index: 40
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: vY4EbCIY9i
+Annotation Text: my beloved spouse
+Start Index: 38
+End Index: 55
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: ZGDr1vXOuq
+Annotation Text: [Person-2]
+Start Index: 57
+End Index: 67
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 3w-vtecrhq
+Annotation Text: my
+Start Index: 76
+End Index: 78
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 71G1bBKD22
+Annotation Text: I
+Start Index: 86
+End Index: 87
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: jj7Vqb-Bp1
+Annotation Text: my
+Start Index: 121
+End Index: 123
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: iNJq8Htk4T
+Annotation Text: 10% of my net estate
+Start Index: 114
+End Index: 134
+Annotation Labels: ['ASSET']
+---
+Entity ID: r9IVSx1wSi
+Annotation Text: the [Organization-1]
+Start Index: 138
+End Index: 158
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: Hf-NHxfx3k
+Annotation Text: my
+Start Index: 190
+End Index: 192
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 78TObfSi_6
+Annotation Text: all the residue of my estate, both real and personal of whatever kind the same may be and wherever situated of which I may die possessed, or to which I may be entitled
+Start Index: 171
+End Index: 338
+Annotation Labels: ['ASSET']
+---
+Entity ID: 8vpUGYWZoy
+Annotation Text: I 
+Start Index: 288
+End Index: 289
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: dFh3emlJOl
+Annotation Text: I
+Start Index: 321
+End Index: 322
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 8xZaZWQmd_
+Annotation Text: [Person-3]
+Start Index: 343
+End Index: 353
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: XoUfD70oY1
+Annotation Text: [Person-4]
+Start Index: 355
+End Index: 365
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: ngFmmWBdSS
+Annotation Text: [Person-5]
+Start Index: 367
+End Index: 377
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: xcu-hnr_0F
+Annotation Text: [Person-6]
+Start Index: 382
+End Index: 392
+Annotation Labels: ['BENEFICIARY']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: iNJq8Htk4T
+from_id: jj7Vqb-Bp1
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: 78TObfSi_6
+from_id: Hf-NHxfx3k
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: r9IVSx1wSi
+from_id: jj7Vqb-Bp1
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: 8xZaZWQmd_
+from_id: dFh3emlJOl
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: XoUfD70oY1
+from_id: dFh3emlJOl
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: ngFmmWBdSS
+from_id: dFh3emlJOl
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: xcu-hnr_0F
+from_id: dFh3emlJOl
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: iNJq8Htk4T
+from_id: r9IVSx1wSi
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 78TObfSi_6
+from_id: 8xZaZWQmd_
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 78TObfSi_6
+from_id: XoUfD70oY1
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 78TObfSi_6
+from_id: ngFmmWBdSS
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 78TObfSi_6
+from_id: xcu-hnr_0F
+---
+Annotation ID: 19032280
+---
+Entity ID: DWTbVK0LW7
+Annotation Text: my
+Start Index: 38
+End Index: 40
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 2W21jlshb3
+Annotation Text: my
+Start Index: 76
+End Index: 78
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: KNQRWuMDds
+Annotation Text: I
+Start Index: 86
+End Index: 87
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: RZdzlIgnl7
+Annotation Text: my
+Start Index: 121
+End Index: 123
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: T8TUsneq2o
+Annotation Text: my
+Start Index: 190
+End Index: 192
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: lDtHN3qBzK
+Annotation Text: I
+Start Index: 288
+End Index: 289
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: be5fxdxoyz
+Annotation Text: I
+Start Index: 321
+End Index: 322
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: YnmRzACof3
+Annotation Text: the [Organization-1]
+Start Index: 138
+End Index: 158
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: AkbhEyQsBH
+Annotation Text: [Person-3]
+Start Index: 343
+End Index: 353
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: N8dlRi_H-g
+Annotation Text: [Person-4]
+Start Index: 355
+End Index: 365
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: IAOkjbXd5H
+Annotation Text: [Person-5]
+Start Index: 367
+End Index: 377
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: D9SDTrokVK
+Annotation Text: [Person-6]
+Start Index: 382
+End Index: 392
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: QhmNp42Mu2
+Annotation Text: my beloved spouse
+Start Index: 38
+End Index: 55
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: REIBSMhBM6
+Annotation Text: [Person-2]
+Start Index: 57
+End Index: 67
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: GpsoVxkK1C
+Annotation Text: 10% of my net estate
+Start Index: 114
+End Index: 134
+Annotation Labels: ['ASSET']
+---
+Entity ID: oxJVh1CdgW
+Annotation Text: all the residue of my estate, both real and personal of whatever kind the same may be and wherever situated of which I may die possessed, or to which I may be entitled
+Start Index: 171
+End Index: 338
+Annotation Labels: ['ASSET']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: GpsoVxkK1C
+from_id: RZdzlIgnl7
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: GpsoVxkK1C
+from_id: YnmRzACof3
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: oxJVh1CdgW
+from_id: T8TUsneq2o
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: oxJVh1CdgW
+from_id: AkbhEyQsBH
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: oxJVh1CdgW
+from_id: N8dlRi_H-g
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: oxJVh1CdgW
+from_id: IAOkjbXd5H
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: oxJVh1CdgW
+from_id: D9SDTrokVK
+---
+===================================
+Will Text: In the event of the death of [Person-3], [Person-4], [Person-5] or [Person-6] without issue, prior to my death, I direct the share to which said beneficiary would be entitled had said beneficiary survived me be distributed in equal shares, share and share alike, to the remaining survivors of [Person-3], [Person-4], [Person-5] or [Person-6].
+---
+Annotation ID: 19097722
+---
+Entity ID: kbW607guKe
+Annotation Text: [Person-3]
+Start Index: 29
+End Index: 39
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: TK-5iR3Kf3
+Annotation Text: [Person-4]
+Start Index: 41
+End Index: 51
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: XA1qXB9Quk
+Annotation Text: [Person-5]
+Start Index: 53
+End Index: 63
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: m3CmqioOxi
+Annotation Text: [Person-6]
+Start Index: 67
+End Index: 77
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: hs0lnL1Cu0
+Annotation Text: my
+Start Index: 102
+End Index: 104
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: rXsexlscyE
+Annotation Text: I
+Start Index: 112
+End Index: 113
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 4-4iwozRxN
+Annotation Text: the share to which said beneficiary would be entitled
+Start Index: 121
+End Index: 174
+Annotation Labels: ['ASSET']
+---
+Entity ID: syydvpBZ4C
+Annotation Text: said beneficiary
+Start Index: 140
+End Index: 156
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: JXZiyDuWRR
+Annotation Text: said beneficiary
+Start Index: 179
+End Index: 195
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: qBfyj1h8R_
+Annotation Text: me
+Start Index: 205
+End Index: 207
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: MXZpNxpT7X
+Annotation Text: [Person-3]
+Start Index: 293
+End Index: 303
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 8-m2gM-S9Y
+Annotation Text: [Person-4]
+Start Index: 305
+End Index: 315
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: SatuLpEul3
+Annotation Text: [Person-5]
+Start Index: 317
+End Index: 327
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 0gOZNgwkSl
+Annotation Text: [Person-6]
+Start Index: 331
+End Index: 341
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: Ieeft3Xj6g
+Annotation Text: the remaining survivors of [Person-3], [Person-4], [Person-5] or [Person-6]
+Start Index: 266
+End Index: 341
+Annotation Labels: ['BENEFICIARY']
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: kbW607guKe
+from_id: hs0lnL1Cu0
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: TK-5iR3Kf3
+from_id: hs0lnL1Cu0
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: XA1qXB9Quk
+from_id: hs0lnL1Cu0
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: m3CmqioOxi
+from_id: hs0lnL1Cu0
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: 4-4iwozRxN
+from_id: rXsexlscyE
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: syydvpBZ4C
+from_id: rXsexlscyE
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 4-4iwozRxN
+from_id: kbW607guKe
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 4-4iwozRxN
+from_id: TK-5iR3Kf3
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 4-4iwozRxN
+from_id: XA1qXB9Quk
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 4-4iwozRxN
+from_id: m3CmqioOxi
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 4-4iwozRxN
+from_id: syydvpBZ4C
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 4-4iwozRxN
+from_id: Ieeft3Xj6g
+---
+Annotation ID: 19032346
+---
+Entity ID: PgDz8RiRj9
+Annotation Text: [Person-3]
+Start Index: 29
+End Index: 39
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: ANIfB085pi
+Annotation Text: [Person-4]
+Start Index: 41
+End Index: 51
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: xwi6gD46f9
+Annotation Text: [Person-5]
+Start Index: 53
+End Index: 63
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 6ylase7jqn
+Annotation Text: [Person-6]
+Start Index: 67
+End Index: 77
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: jX2De1Gjn5
+Annotation Text: my
+Start Index: 102
+End Index: 104
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 6wNl4k72Wc
+Annotation Text: I
+Start Index: 112
+End Index: 113
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: G1a4AZOQVG
+Annotation Text: me
+Start Index: 205
+End Index: 207
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: yvDoVzVju6
+Annotation Text: [Person-3]
+Start Index: 293
+End Index: 303
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: sP6B6nDohe
+Annotation Text: [Person-4]
+Start Index: 305
+End Index: 315
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: JzaR077CGF
+Annotation Text: [Person-5]
+Start Index: 317
+End Index: 327
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: efNiGR78ld
+Annotation Text: [Person-6]
+Start Index: 331
+End Index: 341
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: JqffJN9Wcm
+Annotation Text: the share
+Start Index: 121
+End Index: 130
+Annotation Labels: ['ASSET']
+---
+Entity ID: 8ax4A4PVct
+Annotation Text: said beneficiary
+Start Index: 140
+End Index: 156
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: Z73kTjOnqB
+Annotation Text: said beneficiary
+Start Index: 179
+End Index: 195
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 43jENkiUEp
+Annotation Text: the remaining survivors
+Start Index: 266
+End Index: 289
+Annotation Labels: ['BENEFICIARY']
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: Z73kTjOnqB
+from_id: G1a4AZOQVG
+---
+===================================
+Will Text: FIFTH: Having in mind at the time of making this my Last Will and Testament and any codicils thereto all my other relatives and their children and any other persons not herein named or in any codicils hereto, I declare that my failure to provide for them in this my Last Will and Testament is intentional and not accidental.
+---
+Annotation ID: 19098094
+---
+Entity ID: ARVhBfjQ3Z
+Annotation Text: my
+Start Index: 49
+End Index: 51
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 50Rdsr0_B5
+Annotation Text: my Last Will and Testament
+Start Index: 49
+End Index: 75
+Annotation Labels: ['WILL']
+---
+Entity ID: tw4GQ5ckFa
+Annotation Text: this
+Start Index: 44
+End Index: 48
+Annotation Labels: ['WILL']
+---
+Entity ID: 7ijFCi3FLT
+Annotation Text: my
+Start Index: 105
+End Index: 107
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: h5LgICATum
+Annotation Text: I 
+Start Index: 209
+End Index: 210
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: JJsD7qnpts
+Annotation Text: my
+Start Index: 224
+End Index: 226
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: S6Ph3EGvZ9
+Annotation Text: this
+Start Index: 258
+End Index: 262
+Annotation Labels: ['WILL']
+---
+Entity ID: KNn20pzEK0
+Annotation Text: my
+Start Index: 263
+End Index: 265
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: q8fICAfqg9
+Annotation Text: my Last Will and Testament
+Start Index: 263
+End Index: 289
+Annotation Labels: ['WILL']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: tw4GQ5ckFa
+from_id: ARVhBfjQ3Z
+---
+Annotation ID: 19032452
+---
+Entity ID: Yw7_5S4zK0
+Annotation Text: my
+Start Index: 105
+End Index: 107
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: lmAUdaUfWZ
+Annotation Text: my
+Start Index: 49
+End Index: 51
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: GOidorXl-t
+Annotation Text: this
+Start Index: 44
+End Index: 48
+Annotation Labels: ['WILL']
+---
+Entity ID: o2yQWpE5bD
+Annotation Text: my Last Will and Testament
+Start Index: 49
+End Index: 75
+Annotation Labels: ['WILL']
+---
+Entity ID: T0iItAxZ60
+Annotation Text: I
+Start Index: 209
+End Index: 210
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: iVNata5A86
+Annotation Text: my
+Start Index: 224
+End Index: 226
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: TV8reMFS3k
+Annotation Text: this
+Start Index: 258
+End Index: 262
+Annotation Labels: ['WILL']
+---
+Entity ID: rrckkTxzJS
+Annotation Text: my
+Start Index: 263
+End Index: 265
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: iJO6zUSGrp
+Annotation Text: my Last Will and Testament
+Start Index: 263
+End Index: 289
+Annotation Labels: ['WILL']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: o2yQWpE5bD
+from_id: lmAUdaUfWZ
+---
+===================================
+Will Text: I further direct that if any beneficiary under this Will should contest the terms of this Will they shall receive nothing by the terms of this Will and that share which they would have received shall be divided among the remaining beneficiaries of my estate in the same manner as though they had predeceased me without issue.
+---
+Annotation ID: 19098514
+---
+Entity ID: toIzkwbqvL
+Annotation Text: I
+Start Index: 0
+End Index: 1
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: x45ErEY6_o
+Annotation Text: any beneficiary under this Will
+Start Index: 25
+End Index: 56
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 9obTdFEa8b
+Annotation Text: this Will
+Start Index: 47
+End Index: 56
+Annotation Labels: ['WILL']
+---
+Entity ID: O2BgYtoW0E
+Annotation Text: this Will
+Start Index: 85
+End Index: 94
+Annotation Labels: ['WILL']
+---
+Entity ID: kyX2pH6Y57
+Annotation Text: they
+Start Index: 95
+End Index: 99
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: nFCGpiMBgq
+Annotation Text: this Will
+Start Index: 138
+End Index: 147
+Annotation Labels: ['WILL']
+---
+Entity ID: uQ_7KHcVgX
+Annotation Text: that share which they would have received
+Start Index: 152
+End Index: 193
+Annotation Labels: ['ASSET']
+---
+Entity ID: zh-iheVvMj
+Annotation Text: the remaining beneficiaries
+Start Index: 217
+End Index: 244
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: Xa_zEcEchC
+Annotation Text: my
+Start Index: 248
+End Index: 250
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: sHWZjv007c
+Annotation Text: my estate
+Start Index: 248
+End Index: 257
+Annotation Labels: ['ASSET']
+---
+Entity ID: OJonO0CVBC
+Annotation Text: they 
+Start Index: 287
+End Index: 291
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: kG02izm0w2
+Annotation Text: me
+Start Index: 308
+End Index: 310
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: MR-EXqdhSb
+Annotation Text: they
+Start Index: 169
+End Index: 173
+Annotation Labels: ['BENEFICIARY']
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: x45ErEY6_o
+from_id: toIzkwbqvL
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: 9obTdFEa8b
+from_id: toIzkwbqvL
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: uQ_7KHcVgX
+from_id: MR-EXqdhSb
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: uQ_7KHcVgX
+from_id: zh-iheVvMj
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: uQ_7KHcVgX
+from_id: Xa_zEcEchC
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: sHWZjv007c
+from_id: Xa_zEcEchC
+---
+Annotation ID: 19032914
+---
+Entity ID: 9Sgt9UcvuI
+Annotation Text: I
+Start Index: 0
+End Index: 1
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: nhUHVNrW3D
+Annotation Text: my
+Start Index: 248
+End Index: 250
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: GVjSVesYR1
+Annotation Text: me
+Start Index: 308
+End Index: 310
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: cTeqOCWsw_
+Annotation Text: this Will
+Start Index: 47
+End Index: 56
+Annotation Labels: ['WILL']
+---
+Entity ID: GmL77O-u_H
+Annotation Text: this Will
+Start Index: 85
+End Index: 94
+Annotation Labels: ['WILL']
+---
+Entity ID: q7iTL2h4LC
+Annotation Text: this Will
+Start Index: 138
+End Index: 147
+Annotation Labels: ['WILL']
+---
+Entity ID: lGFusDBWFk
+Annotation Text: any beneficiary
+Start Index: 25
+End Index: 40
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: kXclUL3xLU
+Annotation Text: they
+Start Index: 95
+End Index: 99
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: -qqBpYq-nc
+Annotation Text: they
+Start Index: 169
+End Index: 173
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 6xiNIdWykN
+Annotation Text: the remaining beneficiaries
+Start Index: 217
+End Index: 244
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: Q_TR47rBwu
+Annotation Text: my estate
+Start Index: 248
+End Index: 257
+Annotation Labels: ['ASSET']
+---
+Entity ID: uEHmqAEOt2
+Annotation Text: they
+Start Index: 287
+End Index: 291
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: ium4CLgpfo
+Annotation Text: share
+Start Index: 157
+End Index: 162
+Annotation Labels: ['ASSET']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: Q_TR47rBwu
+from_id: nhUHVNrW3D
+---
+===================================
+Will Text: SIXTH: I hereby nominate, constitute and appoint my beloved spouse, [Person-2], to serve as Personal Representative without bond of this my Last Will and Testament and in the event my spouse is not living at the time of my death or declines to act or is disabled from acting, I hereby nominate, constitute and appoint [Person-4], to serve as Personal Representative, without bond, in place of my spouse.
+---
+Annotation ID: 19098768
+---
+Entity ID: FJaejrjYRm
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: TsgFvt_Z_6
+Annotation Text: my
+Start Index: 49
+End Index: 51
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 1ktGoVLbD6
+Annotation Text: this
+Start Index: 132
+End Index: 136
+Annotation Labels: ['WILL']
+---
+Entity ID: Bu1yS4P5_l
+Annotation Text: my 
+Start Index: 137
+End Index: 139
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: MT3xdHevjL
+Annotation Text: my Last Will and Testament
+Start Index: 137
+End Index: 163
+Annotation Labels: ['WILL']
+---
+Entity ID: b-ZcAd3OXE
+Annotation Text: my
+Start Index: 181
+End Index: 183
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: wm0VtCz1nG
+Annotation Text: my
+Start Index: 220
+End Index: 222
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Wf8Jyg0PHy
+Annotation Text: I
+Start Index: 276
+End Index: 277
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: XxdrfmSXcR
+Annotation Text: my
+Start Index: 393
+End Index: 395
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: 1ktGoVLbD6
+from_id: Bu1yS4P5_l
+---
+Annotation ID: 19033043
+---
+Entity ID: bbvjYm6MBP
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 2DNcmqNJtJ
+Annotation Text: my
+Start Index: 49
+End Index: 51
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: iqKjNRUfMC
+Annotation Text: my
+Start Index: 137
+End Index: 139
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: TA9tzTL22V
+Annotation Text: my
+Start Index: 181
+End Index: 183
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ZAH-EynOb9
+Annotation Text: my
+Start Index: 220
+End Index: 222
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: L8fCPRo1UN
+Annotation Text: I
+Start Index: 276
+End Index: 277
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: sKwhgySmbd
+Annotation Text: my
+Start Index: 393
+End Index: 395
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: KD6LchHwk4
+Annotation Text: this
+Start Index: 132
+End Index: 136
+Annotation Labels: ['WILL']
+---
+Entity ID: gnT4wSZmOF
+Annotation Text: my Last Will and Testament
+Start Index: 137
+End Index: 163
+Annotation Labels: ['WILL']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: gnT4wSZmOF
+from_id: iqKjNRUfMC
+---
+===================================
+Will Text: In the event neither of the above-named Personal Representatives shall be living or in the event they shall decline to act then, in that event, I nominate, constitute and appoint [Person-3] as Personal Representative without bond in their place.
+---
+Annotation ID: 19098968
+---
+Entity ID: Mr0tsqvmdm
+Annotation Text: I 
+Start Index: 144
+End Index: 145
+Annotation Labels: ['TESTATOR']
+---
+Annotation ID: 19033089
+---
+Entity ID: FIC_BSw76B
+Annotation Text: I
+Start Index: 144
+End Index: 145
+Annotation Labels: ['TESTATOR']
+---
+===================================
+Will Text: IN WITNESS WHEREOF, I, [Person-1], the Testator, sign my name to this instrument this 24th day of January, 1989, and being first duly sworn, do hereby declare to the undersigned authority that I sign and execute this instrument as my Last Will and that I sign it willingly, that I execute it as my free and voluntary act for the purposes therein expressed, and that I am eighteen (18) years of age or older, of sound mind, and under no constraint or undue influence.
+---
+Annotation ID: 19099142
+---
+Entity ID: pC_Y6gpS-R
+Annotation Text: I
+Start Index: 20
+End Index: 21
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: JTQvp3agA5
+Annotation Text: [Person-1]
+Start Index: 23
+End Index: 33
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: YqG5uarIX0
+Annotation Text: the Testator
+Start Index: 35
+End Index: 47
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: rodYHrFT0U
+Annotation Text: my
+Start Index: 54
+End Index: 56
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: aXtGOnXV_-
+Annotation Text: this instrument
+Start Index: 65
+End Index: 80
+Annotation Labels: ['WILL']
+---
+Entity ID: 0aCzAMGvX4
+Annotation Text: I
+Start Index: 193
+End Index: 194
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: rCVM96SxDl
+Annotation Text: this instrument
+Start Index: 212
+End Index: 227
+Annotation Labels: ['WILL']
+---
+Entity ID: d8sMJVogjB
+Annotation Text: my
+Start Index: 231
+End Index: 233
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 0V-5C25OJU
+Annotation Text: my Last Will
+Start Index: 231
+End Index: 243
+Annotation Labels: ['WILL']
+---
+Entity ID: 3T6nAK6Z2h
+Annotation Text: I
+Start Index: 253
+End Index: 254
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 1Y4YVVq8gV
+Annotation Text: it
+Start Index: 260
+End Index: 262
+Annotation Labels: ['WILL']
+---
+Entity ID: Y0y0UhESh7
+Annotation Text: I
+Start Index: 279
+End Index: 280
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: i0VRC5YolU
+Annotation Text: it
+Start Index: 289
+End Index: 291
+Annotation Labels: ['WILL']
+---
+Entity ID: USNMRC6OYS
+Annotation Text: my
+Start Index: 295
+End Index: 297
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 9tIPCvCOJX
+Annotation Text: I
+Start Index: 366
+End Index: 367
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: aXtGOnXV_-
+from_id: rodYHrFT0U
+---
+Annotation ID: 19033222
+---
+Entity ID: GmYLGHwE3V
+Annotation Text: I
+Start Index: 20
+End Index: 21
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: oqVe5w-kI2
+Annotation Text: [Person-1]
+Start Index: 23
+End Index: 33
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: xI-jzWZIDr
+Annotation Text: the Testator
+Start Index: 35
+End Index: 47
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: h-EMl_ozYx
+Annotation Text: my
+Start Index: 54
+End Index: 56
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: FCD9kCU7ph
+Annotation Text: I
+Start Index: 193
+End Index: 194
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: FUK-Z23wla
+Annotation Text: my
+Start Index: 231
+End Index: 233
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: AXPgexBfAT
+Annotation Text: I
+Start Index: 253
+End Index: 254
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: J36UkaplEX
+Annotation Text: I
+Start Index: 279
+End Index: 280
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: sPphHSOtWc
+Annotation Text: my
+Start Index: 295
+End Index: 297
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 7ACcnTVj-0
+Annotation Text: I
+Start Index: 366
+End Index: 367
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: noTuW7BfRC
+Annotation Text: this instrument
+Start Index: 65
+End Index: 80
+Annotation Labels: ['WILL']
+---
+Entity ID: 67OdJH8eh4
+Annotation Text: this instrument
+Start Index: 212
+End Index: 227
+Annotation Labels: ['WILL']
+---
+Entity ID: 7c7lOMbw8O
+Annotation Text: my Last Will
+Start Index: 231
+End Index: 243
+Annotation Labels: ['WILL']
+---
+Entity ID: 3CAysEph0F
+Annotation Text: it
+Start Index: 260
+End Index: 262
+Annotation Labels: ['WILL']
+---
+Entity ID: 3aBLZ2aGf9
+Annotation Text: it
+Start Index: 289
+End Index: 291
+Annotation Labels: ['WILL']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: 7c7lOMbw8O
+from_id: FUK-Z23wla
+---
+===================================
+Will Text: We, [Person-6] and [Person-7] the witnesses, sign our names to this instrument, being first duly sworn, and do hereby declare to the undersigned authority that the Testator signs and executes this instrument as his Last Will and that he signs it willingly and that each of us, in the presence and hearing of the Testator hereby signs this Will as witness to the Testator signing, and that to the best of our knowledge the Testator is eighteen (18) years of age or older, of sound mind, and under no constraint or undue influence.
+---
+Annotation ID: 19099408
+---
+Entity ID: _R_VaqTuCj
+Annotation Text: [Person-6]
+Start Index: 4
+End Index: 14
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: R2gDNL0iQi
+Annotation Text: We
+Start Index: 0
+End Index: 2
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: Jc9fAayaLt
+Annotation Text: the witnesses
+Start Index: 30
+End Index: 43
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 4DGcg9jBDT
+Annotation Text: our
+Start Index: 50
+End Index: 53
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: GeN7uSLeGP
+Annotation Text: this instrument
+Start Index: 63
+End Index: 78
+Annotation Labels: ['WILL']
+---
+Entity ID: iNcnKSn2b_
+Annotation Text: the Testator
+Start Index: 160
+End Index: 172
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: FgNHYPiabD
+Annotation Text: this instrument
+Start Index: 192
+End Index: 207
+Annotation Labels: ['WILL']
+---
+Entity ID: wwzGQ0qAkn
+Annotation Text: his
+Start Index: 211
+End Index: 214
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: am48BDCzA3
+Annotation Text: his Last Will
+Start Index: 211
+End Index: 224
+Annotation Labels: ['WILL']
+---
+Entity ID: 2AnzQ1J8-E
+Annotation Text: he
+Start Index: 234
+End Index: 236
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: r_UAyQPMHr
+Annotation Text: it
+Start Index: 243
+End Index: 245
+Annotation Labels: ['WILL']
+---
+Entity ID: -rlOLhbXn4
+Annotation Text: each of us
+Start Index: 265
+End Index: 275
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: OuThc-TXhM
+Annotation Text: the Testator
+Start Index: 308
+End Index: 320
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: usXHvDYNDk
+Annotation Text: this Will
+Start Index: 334
+End Index: 343
+Annotation Labels: ['WILL']
+---
+Entity ID: Hgzqk6FTbM
+Annotation Text: witness
+Start Index: 347
+End Index: 354
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: WVSyF0WtHg
+Annotation Text: the Testator 
+Start Index: 358
+End Index: 370
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: y94sMAsKZg
+Annotation Text: our
+Start Index: 404
+End Index: 407
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: YsLA6jLq7O
+Annotation Text: the Testator
+Start Index: 418
+End Index: 430
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: FgNHYPiabD
+from_id: iNcnKSn2b_
+---
+Annotation ID: 19033335
+---
+Entity ID: eJIEvVSdE9
+Annotation Text: this instrument
+Start Index: 63
+End Index: 78
+Annotation Labels: ['WILL']
+---
+Entity ID: Sqx3KeTIM4
+Annotation Text: the Testator
+Start Index: 160
+End Index: 172
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: a26SZPR6AW
+Annotation Text: this instrument
+Start Index: 192
+End Index: 207
+Annotation Labels: ['WILL']
+---
+Entity ID: i3viTzjOOg
+Annotation Text: his
+Start Index: 211
+End Index: 214
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: HF_9ffyMlK
+Annotation Text: his Last Will
+Start Index: 211
+End Index: 224
+Annotation Labels: ['WILL']
+---
+Entity ID: oWNoAwe_kL
+Annotation Text: he
+Start Index: 234
+End Index: 236
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Qebs32Ybtm
+Annotation Text: it
+Start Index: 243
+End Index: 245
+Annotation Labels: ['WILL']
+---
+Entity ID: RzW5zxckj_
+Annotation Text: the Testator
+Start Index: 308
+End Index: 320
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: rJtgxGf-9a
+Annotation Text: the Testator
+Start Index: 418
+End Index: 430
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: CImJkaMnW5
+Annotation Text: this Will
+Start Index: 334
+End Index: 343
+Annotation Labels: ['WILL']
+---
+Entity ID: 2ZybV6P2D5
+Annotation Text: the Testator
+Start Index: 358
+End Index: 370
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: HF_9ffyMlK
+from_id: i3viTzjOOg
+---
+===================================
+Will Text: I, [Person-1], over the age of eighteen (18) years, a citizen of the State of Idaho and a resident of the City of Burley, Cassia County, State of Idaho, being of sound and disposing mind and not under restraint or undue influence, do make, publish and declare this to be my Last Will and Testament, hereby revoking all other Wills by me made.
+---
+Annotation ID: 19018458
+---
+Entity ID: ABF6eIne43
+Annotation Text: I
+Start Index: 0
+End Index: 1
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Rt5rJTtwFK
+Annotation Text: [Person-1]
+Start Index: 3
+End Index: 13
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: bU4Omq_aIo
+Annotation Text: a citizen of the State of Idaho
+Start Index: 52
+End Index: 83
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: luAIMRoXOe
+Annotation Text: a resident of the City of Burley
+Start Index: 88
+End Index: 120
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 4QyLuWRexL
+Annotation Text: this
+Start Index: 260
+End Index: 264
+Annotation Labels: ['WILL']
+---
+Entity ID: lF0zlzzxdj
+Annotation Text: my
+Start Index: 271
+End Index: 273
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: IH8G74Uvc4
+Annotation Text: my Last Will and Testament
+Start Index: 271
+End Index: 297
+Annotation Labels: ['WILL']
+---
+Entity ID: sWbm-tTyR0
+Annotation Text: all other Wills
+Start Index: 315
+End Index: 330
+Annotation Labels: ['WILL']
+---
+Entity ID: M2aAmuDS7k
+Annotation Text: me
+Start Index: 334
+End Index: 336
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: 4QyLuWRexL
+from_id: lF0zlzzxdj
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: sWbm-tTyR0
+from_id: M2aAmuDS7k
+---
+===================================
+Will Text: FIRST: I declare that my estate whereof I may die possessed is my sole and separate property and I am a widower.
+---
+Annotation ID: 19018459
+---
+Entity ID: qWms5roxEA
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: V1yJXOjZTL
+Annotation Text: my
+Start Index: 22
+End Index: 24
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: hw5L6aVKcx
+Annotation Text: my estate
+Start Index: 22
+End Index: 31
+Annotation Labels: ['ASSET']
+---
+Entity ID: NN9eEMY1O1
+Annotation Text: I
+Start Index: 40
+End Index: 41
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Z9Gn-0uo5K
+Annotation Text: my
+Start Index: 63
+End Index: 65
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 0I5rt4yCT5
+Annotation Text: my sole and separate property
+Start Index: 63
+End Index: 92
+Annotation Labels: ['ASSET']
+---
+Entity ID: 2VlskGxske
+Annotation Text: I
+Start Index: 97
+End Index: 98
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: hw5L6aVKcx
+from_id: V1yJXOjZTL
+---
+===================================
+Will Text: THIRD: I give and devise all of my estate, both separate and community, both real and personal, to [Person-2], if he survives me.
+---
+Annotation ID: 19018464
+---
+Entity ID: tgeDe423h7
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Zm1sEzPNiL
+Annotation Text: my
+Start Index: 32
+End Index: 34
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Cxm9I2Gzso
+Annotation Text: all of my estate, both separate and community, both real and personal
+Start Index: 25
+End Index: 94
+Annotation Labels: ['ASSET']
+---
+Entity ID: X1iOCVq4bv
+Annotation Text: [Person-2]
+Start Index: 99
+End Index: 109
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: yJPHk-9bQz
+Annotation Text: he 
+Start Index: 114
+End Index: 116
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: sj8GqLhEgK
+Annotation Text: me
+Start Index: 126
+End Index: 128
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: X1iOCVq4bv
+from_id: sj8GqLhEgK
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: Cxm9I2Gzso
+from_id: Zm1sEzPNiL
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: Cxm9I2Gzso
+from_id: X1iOCVq4bv
+---
+===================================
+Will Text: FOURTH: In the event of the demise of [Person-2] before my death, I give, devise and bequeath all the residue of my estate, both real and personal of whatever kind the same may be and wherever situated of which I may die possessed, or to which I may be entitled, to my stepchildren, to-wit: [Person-3], [Person-4] and [Person-5] in equal shares, share and share alike. In the event of the death of any of my stepchildren without issue prior to my death, I direct the share to which said beneficiary would be entitled, had said beneficiary survived me, be distributed in equal shares, share and share alike, to my remaining surviving stepchildren; but if they leave children then their share shall go to their children by right of representation. 
+---
+Annotation ID: 19093321
+---
+Entity ID: a8ot43LhNX
+Annotation Text: [Person-2]
+Start Index: 38
+End Index: 48
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: h9gJC_Lmas
+Annotation Text: my
+Start Index: 56
+End Index: 58
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: mWNSfwwKa1
+Annotation Text: I
+Start Index: 66
+End Index: 67
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 4V8e44RrBG
+Annotation Text: all the residue of my estate, both real and personal of whatever kind the same may be and wherever situated of which I may die possessed, or to which I may be entitled
+Start Index: 94
+End Index: 261
+Annotation Labels: ['ASSET']
+---
+Entity ID: lBqvVb8le7
+Annotation Text: my
+Start Index: 113
+End Index: 115
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: MoJxIpcLqW
+Annotation Text: I
+Start Index: 211
+End Index: 212
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ab1hKlGDCi
+Annotation Text: I
+Start Index: 244
+End Index: 245
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 03lQ-oHh_V
+Annotation Text: my
+Start Index: 266
+End Index: 268
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: fTvC77S4u-
+Annotation Text: my stepchildren
+Start Index: 266
+End Index: 281
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: CsdBf9DyeO
+Annotation Text: my stepchildren
+Start Index: 266
+End Index: 281
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: nqMrqqIqPq
+Annotation Text: my stepchildren
+Start Index: 266
+End Index: 281
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: bwldirO8E0
+Annotation Text: [Person-3]
+Start Index: 291
+End Index: 301
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: XTyfJyrsFG
+Annotation Text: [Person-4]
+Start Index: 303
+End Index: 313
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: rqRxxnLhCi
+Annotation Text: [Person-5]
+Start Index: 318
+End Index: 328
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: -Q7t_MfjwU
+Annotation Text: my
+Start Index: 405
+End Index: 407
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: jI6UJj2afA
+Annotation Text: my stepchildren
+Start Index: 405
+End Index: 420
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: mpldHmrZA5
+Annotation Text: my stepchildren
+Start Index: 405
+End Index: 420
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 2MY3ACUqvt
+Annotation Text: my stepchildren
+Start Index: 405
+End Index: 420
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: AAV6DBfYWG
+Annotation Text: my
+Start Index: 444
+End Index: 446
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: rQhVROdf04
+Annotation Text: I
+Start Index: 454
+End Index: 455
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 31FtDZaGG_
+Annotation Text: the share to which said beneficiary would be entitled
+Start Index: 463
+End Index: 516
+Annotation Labels: ['ASSET']
+---
+Entity ID: Jndmw4PNel
+Annotation Text: any of my stepchildren
+Start Index: 398
+End Index: 420
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: FQSgB6bBN-
+Annotation Text: said beneficiary
+Start Index: 482
+End Index: 498
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 1lpUpjh3NZ
+Annotation Text: said beneficiary
+Start Index: 522
+End Index: 538
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: zGnHzH5gGN
+Annotation Text: me
+Start Index: 548
+End Index: 550
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: nGyRazMb-B
+Annotation Text: my 
+Start Index: 610
+End Index: 612
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 6iwqBoEtiU
+Annotation Text: my remaining surviving stepchildren
+Start Index: 610
+End Index: 645
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: kSzeE_aN80
+Annotation Text: they
+Start Index: 654
+End Index: 658
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: pNF7F7zSa4
+Annotation Text: children
+Start Index: 665
+End Index: 673
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 1IteYF6a5_
+Annotation Text: their
+Start Index: 679
+End Index: 684
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: N-WDtO6hpn
+Annotation Text: their 
+Start Index: 703
+End Index: 708
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: ZEHLjmWR_D
+Annotation Text: their children
+Start Index: 703
+End Index: 717
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: OKJ62V88ID
+Annotation Text: their share
+Start Index: 679
+End Index: 690
+Annotation Labels: ['ASSET']
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: a8ot43LhNX
+from_id: h9gJC_Lmas
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: pNF7F7zSa4
+from_id: nGyRazMb-B
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: 4V8e44RrBG
+from_id: lBqvVb8le7
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: 31FtDZaGG_
+from_id: rQhVROdf04
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: OKJ62V88ID
+from_id: nGyRazMb-B
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 4V8e44RrBG
+from_id: fTvC77S4u-
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 4V8e44RrBG
+from_id: CsdBf9DyeO
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 4V8e44RrBG
+from_id: nqMrqqIqPq
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: FQSgB6bBN-
+from_id: 31FtDZaGG_
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 31FtDZaGG_
+from_id: 6iwqBoEtiU
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: OKJ62V88ID
+from_id: ZEHLjmWR_D
+---
+===================================
+Will Text: FIFTH: I hereby nominate, constitute and appoint [Person-2] to serve as Personal Representative without bond of this my Last Will and Testament and in the event he is not living at the time of my death, or declines to act or is disabled from acting, I hereby nominate, constitute and appoint [Person-3] to serve as Personal Representative, without bond, in place of [Person-2]
+---
+Annotation ID: 19093386
+---
+Entity ID: t2V23ZG6F0
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 0ns7ud4Nun
+Annotation Text: this
+Start Index: 112
+End Index: 116
+Annotation Labels: ['WILL']
+---
+Entity ID: 7n9XBlsiNk
+Annotation Text: my
+Start Index: 117
+End Index: 119
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: H4MCiE7SIx
+Annotation Text: my Last Will and Testament
+Start Index: 117
+End Index: 143
+Annotation Labels: ['WILL']
+---
+Entity ID: Zfot0hoadP
+Annotation Text: my
+Start Index: 193
+End Index: 195
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: QI2cIqrvL-
+Annotation Text: I
+Start Index: 250
+End Index: 251
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: 0ns7ud4Nun
+from_id: 7n9XBlsiNk
+---
+===================================
+Will Text: SIXTH: I have omitted from the provisions of this Will my brothers and any other persons who are or who may claim to be my heirs and such omission is intentional and not accidental.
+---
+Annotation ID: 19093500
+---
+Entity ID: ueSi5dSTJS
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: T9ZG7WCmVD
+Annotation Text: this Will
+Start Index: 45
+End Index: 54
+Annotation Labels: ['WILL']
+---
+Entity ID: LW0cqQG2lU
+Annotation Text: my
+Start Index: 55
+End Index: 57
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: jcfjEEqA6A
+Annotation Text: my
+Start Index: 120
+End Index: 122
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Id-3Uys8OQ
+Annotation Text: my heirs
+Start Index: 120
+End Index: 128
+Annotation Labels: ['BENEFICIARY']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: T9ZG7WCmVD
+from_id: LW0cqQG2lU
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: Id-3Uys8OQ
+from_id: jcfjEEqA6A
+---
+===================================
+Will Text: IN WITNESS WHEREOF, I, [Person-1], the Testator, sign my name to this instrument this 8-26-88 day of August, 1988, and being first duly sworn, do hereby declare to the undersigned authority that I sign and execute this instrument as my Last Will and that I sign it willingly, that I execute it as my free and voluntary act for the purposes therein expressed, and that I am eighteen (18) years of age or older, of sound mind, and under no constraint or undue influence.
+---
+Annotation ID: 19093550
+---
+Entity ID: gBhtREEnNM
+Annotation Text: I
+Start Index: 20
+End Index: 21
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: -cgJ64OU0O
+Annotation Text: [Person-1]
+Start Index: 23
+End Index: 33
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 2VmjTTndlX
+Annotation Text: the Testator
+Start Index: 35
+End Index: 47
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: QBHnlxaAT6
+Annotation Text: my
+Start Index: 54
+End Index: 56
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: cdZMgy6UMI
+Annotation Text: this instrument
+Start Index: 65
+End Index: 80
+Annotation Labels: ['WILL']
+---
+Entity ID: N_Z4kSDvdQ
+Annotation Text: I
+Start Index: 195
+End Index: 196
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: mG7lptoKeF
+Annotation Text: this instrument
+Start Index: 214
+End Index: 229
+Annotation Labels: ['WILL']
+---
+Entity ID: otSSr_3yXI
+Annotation Text: my
+Start Index: 233
+End Index: 235
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ZxyJvXTBCv
+Annotation Text: my Last Will
+Start Index: 233
+End Index: 245
+Annotation Labels: ['WILL']
+---
+Entity ID: kxxX229dT3
+Annotation Text: I
+Start Index: 255
+End Index: 256
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ebU8M58iks
+Annotation Text: it
+Start Index: 262
+End Index: 264
+Annotation Labels: ['WILL']
+---
+Entity ID: k9lKrMCXn4
+Annotation Text: I
+Start Index: 281
+End Index: 282
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: xhu_ew8Cj5
+Annotation Text: it
+Start Index: 291
+End Index: 293
+Annotation Labels: ['WILL']
+---
+Entity ID: fXGajQJKpp
+Annotation Text: my
+Start Index: 297
+End Index: 299
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: a5KiPY9cSh
+Annotation Text: I
+Start Index: 368
+End Index: 369
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: cdZMgy6UMI
+from_id: QBHnlxaAT6
+---
+===================================
+Will Text: We, [Person-4] and [Person-5], the witnesses, sign our names to this instrument, being first duly sworn, and do hereby declare to the undersigned authority that the Testator signs and executes this instrument as his Last Will and Testament and that he signs it willingly and that each of us, in the presence and hearing of the Testator hereby signs this Will as witness to the Testator signing, and that to the best of our knowledge the Testator is eighteen (18) years of age or older, of sound mind, and under no constraint or undue influence.
+---
+Annotation ID: 19094696
+---
+Entity ID: 1C99oKrgZW
+Annotation Text: [Person-4]
+Start Index: 4
+End Index: 14
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: cjVV7K5FOo
+Annotation Text: [Person-5]
+Start Index: 19
+End Index: 29
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 2DhaIi5lH_
+Annotation Text: the witnesses
+Start Index: 31
+End Index: 44
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 6zmo_pEVrk
+Annotation Text: the witnesses
+Start Index: 31
+End Index: 44
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: OqoaJ9vdZr
+Annotation Text: this instrument
+Start Index: 64
+End Index: 79
+Annotation Labels: ['WILL']
+---
+Entity ID: 67RNTgweEt
+Annotation Text: our
+Start Index: 51
+End Index: 54
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 3XYzHlV0m5
+Annotation Text: our
+Start Index: 51
+End Index: 54
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: ZjtYWWpUHE
+Annotation Text: the Testator
+Start Index: 161
+End Index: 173
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: REInetKZD7
+Annotation Text: this instrument
+Start Index: 193
+End Index: 208
+Annotation Labels: ['WILL']
+---
+Entity ID: ZuNmLViZFv
+Annotation Text: his
+Start Index: 212
+End Index: 215
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: uzHyybDEoA
+Annotation Text: his Last Will and Testament
+Start Index: 212
+End Index: 239
+Annotation Labels: ['WILL']
+---
+Entity ID: 4LdnJBpvNW
+Annotation Text: he
+Start Index: 249
+End Index: 251
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: EmhByfCyVw
+Annotation Text: it
+Start Index: 258
+End Index: 260
+Annotation Labels: ['WILL']
+---
+Entity ID: SLXMRdQ8r9
+Annotation Text: each of us
+Start Index: 280
+End Index: 290
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: B4io3PiWOB
+Annotation Text: each of us
+Start Index: 280
+End Index: 290
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: EH0-JgulyL
+Annotation Text: this Will
+Start Index: 349
+End Index: 358
+Annotation Labels: ['WILL']
+---
+Entity ID: 8NhT30NsMm
+Annotation Text: the Testator
+Start Index: 373
+End Index: 385
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: K66t8HszLE
+Annotation Text: the Testator 
+Start Index: 433
+End Index: 445
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: PK6iF0IJHQ
+Annotation Text: We
+Start Index: 0
+End Index: 2
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: lz1gz_mMxR
+Annotation Text: We
+Start Index: 0
+End Index: 2
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: ncxvskR39B
+Annotation Text: witness
+Start Index: 362
+End Index: 369
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: e3E8yYoMbS
+Annotation Text: witness
+Start Index: 362
+End Index: 369
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: DW2LcZhPmw
+Annotation Text: our
+Start Index: 419
+End Index: 422
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: maFFcCfCsp
+Annotation Text: our
+Start Index: 419
+End Index: 422
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 18XCtgSaBV
+Annotation Text: the Testator
+Start Index: 323
+End Index: 335
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: OqoaJ9vdZr
+from_id: ZjtYWWpUHE
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: 67RNTgweEt
+from_id: ZjtYWWpUHE
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: 3XYzHlV0m5
+from_id: ZjtYWWpUHE
+---
+===================================
+Will Text: I, [Person-1] over the age of eighteen (18) years, a citizen  of the State of Idaho and a resident of the City of Burley, Cassia County, State of Idaho, being of sound and disposing mind and not under restraint or undue influence, do make, publish and declare this to be my Last Will and Testament, hereby revoking all other Wills by me made.
+---
+Annotation ID: 19094807
+---
+Entity ID: xbQ4kZrNOI
+Annotation Text: I
+Start Index: 0
+End Index: 1
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 4DcZAzQ19W
+Annotation Text: [Person-1]
+Start Index: 3
+End Index: 13
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 6kpaWV8Nlc
+Annotation Text: a citizen of the State of Idaho
+Start Index: 51
+End Index: 83
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: brpkBBBUQp
+Annotation Text: a resident of the City of Burley
+Start Index: 88
+End Index: 120
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 3lMrIWrEJd
+Annotation Text: this
+Start Index: 260
+End Index: 264
+Annotation Labels: ['WILL']
+---
+Entity ID: ZovDGiQAn4
+Annotation Text: my
+Start Index: 271
+End Index: 273
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Ti6FNPUSxu
+Annotation Text: my Last Will and Testament
+Start Index: 271
+End Index: 297
+Annotation Labels: ['WILL']
+---
+Entity ID: 9FuNHUo12j
+Annotation Text: all other Wills
+Start Index: 315
+End Index: 330
+Annotation Labels: ['WILL']
+---
+Entity ID: ZyOkrDewZi
+Annotation Text: me
+Start Index: 334
+End Index: 336
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: 3lMrIWrEJd
+from_id: ZovDGiQAn4
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: 9FuNHUo12j
+from_id: ZyOkrDewZi
+---
+===================================
+Will Text: THIRD: I give and devise all of my estate, both separate and community, both real and personal, in the following manner: I hereby give, devise and bequeath unto my beloved spouse, [Person-2], all of my estate, real, personal and mixed, of every nature, kind and description, wherever situated and however held, which is or may be subject to my testamentary disposition at the time of my death, except my undivided one-half (½) interest in [Location-1] which I give, devise and bequeath unto [Person-3] in satisfaction of money owed to him.
+---
+Annotation ID: 19094953
+---
+Entity ID: 6KAs6QMQLW
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 6bPvWZZSMy
+Annotation Text: all of my estate, both separate and community, both real and personal
+Start Index: 25
+End Index: 94
+Annotation Labels: ['ASSET']
+---
+Entity ID: _KQdpHVRfX
+Annotation Text: my
+Start Index: 32
+End Index: 34
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Uh_GuzPkyk
+Annotation Text: I
+Start Index: 121
+End Index: 122
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: r_ReWQrs3d
+Annotation Text: my
+Start Index: 161
+End Index: 163
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: uCYyen2PKr
+Annotation Text: my beloved spouse
+Start Index: 161
+End Index: 178
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: y3IB9Kx0_h
+Annotation Text: [Person-2]
+Start Index: 180
+End Index: 190
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: mZwlvOj6zv
+Annotation Text: my
+Start Index: 199
+End Index: 201
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 1_wEhD1w2b
+Annotation Text: all of my estate, real, personal and mixed, of every nature, kind and description, wherever situated and however held, which is or may be subject to my testamentary disposition at the time of my death
+Start Index: 192
+End Index: 392
+Annotation Labels: ['ASSET']
+---
+Entity ID: W0fp6QXPyI
+Annotation Text: my
+Start Index: 341
+End Index: 343
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: c6jVcfd77T
+Annotation Text: my testamentary disposition
+Start Index: 341
+End Index: 368
+Annotation Labels: ['WILL']
+---
+Entity ID: JpymAAhwSP
+Annotation Text: my
+Start Index: 384
+End Index: 386
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: v54JVXDVE5
+Annotation Text: my
+Start Index: 401
+End Index: 403
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 65lZZ8XI-T
+Annotation Text: my undivided one-half (½) interest in [Location-1]
+Start Index: 401
+End Index: 451
+Annotation Labels: ['ASSET']
+---
+Entity ID: DTmqwcI6_N
+Annotation Text: I
+Start Index: 458
+End Index: 459
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: CU0yMul5Ry
+Annotation Text: [Person-3]
+Start Index: 491
+End Index: 501
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: vMXEaYOvlu
+Annotation Text: him
+Start Index: 535
+End Index: 538
+Annotation Labels: ['BENEFICIARY']
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: 6bPvWZZSMy
+from_id: _KQdpHVRfX
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: c6jVcfd77T
+from_id: W0fp6QXPyI
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: 65lZZ8XI-T
+from_id: v54JVXDVE5
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: CU0yMul5Ry
+from_id: v54JVXDVE5
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 1_wEhD1w2b
+from_id: y3IB9Kx0_h
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 65lZZ8XI-T
+from_id: CU0yMul5Ry
+---
+===================================
+Will Text: In the event [Person-3] should predecease me, then I give, devise and bequeath my undivided one-half (½) interest in [Location-1] to my husband, [Person-2]. In the event [Person-2] should predecease me, I give, devise and bequeath all my property to [Person-3].
+---
+Annotation ID: 19095022
+---
+Entity ID: C68aa2OX3B
+Annotation Text: [Person-3]
+Start Index: 13
+End Index: 23
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: ifYh3tK-J8
+Annotation Text: me
+Start Index: 42
+End Index: 44
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: qNnCTtp0-c
+Annotation Text: I
+Start Index: 51
+End Index: 52
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: kJEK-jbMKJ
+Annotation Text: my
+Start Index: 79
+End Index: 81
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 8uNGhE2Itn
+Annotation Text: my undivided one-half (½) interest in [Location-1]
+Start Index: 79
+End Index: 129
+Annotation Labels: ['ASSET']
+---
+Entity ID: 38OqhrdYh_
+Annotation Text: my
+Start Index: 133
+End Index: 135
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: kQ2P8NM-aX
+Annotation Text: my husband
+Start Index: 133
+End Index: 143
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 6BReX97gJt
+Annotation Text: [Person-2]
+Start Index: 145
+End Index: 155
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: x1vpGud5hf
+Annotation Text: [Person-2]
+Start Index: 170
+End Index: 180
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: Cv7kzyG8KD
+Annotation Text: me
+Start Index: 199
+End Index: 201
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: sltYYUPox6
+Annotation Text: I
+Start Index: 203
+End Index: 204
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: PAj9FfBl9m
+Annotation Text: my 
+Start Index: 235
+End Index: 237
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: vF9PjxD5ho
+Annotation Text: all my property
+Start Index: 231
+End Index: 246
+Annotation Labels: ['ASSET']
+---
+Entity ID: KUP6qhSdA7
+Annotation Text: [Person-3]
+Start Index: 250
+End Index: 260
+Annotation Labels: ['BENEFICIARY']
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: kQ2P8NM-aX
+from_id: 38OqhrdYh_
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: 8uNGhE2Itn
+from_id: 38OqhrdYh_
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: vF9PjxD5ho
+from_id: PAj9FfBl9m
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: C68aa2OX3B
+from_id: ifYh3tK-J8
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 8uNGhE2Itn
+from_id: C68aa2OX3B
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 8uNGhE2Itn
+from_id: kQ2P8NM-aX
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: vF9PjxD5ho
+from_id: x1vpGud5hf
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: vF9PjxD5ho
+from_id: KUP6qhSdA7
+---
+===================================
+Will Text: FOURTH: In the event of the demise of my beloved spouse, [Person-2], and [Person-3], before my death, I give, devise and bequeath all my estate, both real and personal of whatever kind the same may be and wherever situated of which I may die possessed, or to which I may be entitled, to my children, [Person-4], [Person-5], and [Person-6] in equal shares, share and share alike. In the event of the death of any of my children without issue, prior to my death, I direct the share to which said beneficiary would be entitled had said beneficiary survived me be distributed in equal shares, share and share alike, to my remaining surviving children. 
+---
+Annotation ID: 19095311
+---
+Entity ID: Uqk9F7I95p
+Annotation Text: my
+Start Index: 38
+End Index: 40
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: B8ZTvbcZPH
+Annotation Text: my beloved spouse
+Start Index: 38
+End Index: 55
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: HFXN3OH3qd
+Annotation Text: [Person-2]
+Start Index: 57
+End Index: 67
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: sUqFfchJR8
+Annotation Text: [Person-3]
+Start Index: 73
+End Index: 83
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: XfZ3ZbznpT
+Annotation Text: my
+Start Index: 92
+End Index: 94
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: v70e5fTaFn
+Annotation Text: I
+Start Index: 102
+End Index: 103
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: wBRce1Mrik
+Annotation Text: my
+Start Index: 134
+End Index: 136
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: kQyMcKw0o8
+Annotation Text: I
+Start Index: 232
+End Index: 233
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 60rhvHGbHA
+Annotation Text: I
+Start Index: 265
+End Index: 266
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: piOJEBDRRM
+Annotation Text: all my estate, both real and personal of whatever kind the same may be and wherever situated of which I may die possessed, or to which I may be entitled
+Start Index: 130
+End Index: 282
+Annotation Labels: ['ASSET']
+---
+Entity ID: zktqj51ep5
+Annotation Text: my
+Start Index: 287
+End Index: 289
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: wujD69iSrY
+Annotation Text: my children
+Start Index: 287
+End Index: 298
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: bjWtpKhoqz
+Annotation Text: my children
+Start Index: 287
+End Index: 298
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 6_S6XHBReL
+Annotation Text: my children
+Start Index: 287
+End Index: 298
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: BYDWCsqCkr
+Annotation Text: [Person-4]
+Start Index: 300
+End Index: 310
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: EC5UO_2iQS
+Annotation Text: [Person-5]
+Start Index: 312
+End Index: 322
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: YZ5M9QELxC
+Annotation Text: [Person-6]
+Start Index: 328
+End Index: 338
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: -60y-Ri4FN
+Annotation Text: any of my children
+Start Index: 408
+End Index: 426
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: U46YgwF8Y6
+Annotation Text: my
+Start Index: 415
+End Index: 417
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ax1HZryvVa
+Annotation Text: my children
+Start Index: 415
+End Index: 426
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: BhZU4iNvK4
+Annotation Text: my children
+Start Index: 415
+End Index: 426
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: _24mRZJ8VP
+Annotation Text: my children
+Start Index: 415
+End Index: 426
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: PNuaSJefed
+Annotation Text: my
+Start Index: 451
+End Index: 453
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: C1bEiojI3S
+Annotation Text: I
+Start Index: 461
+End Index: 462
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: f9V-x-5TpC
+Annotation Text: said beneficiary
+Start Index: 489
+End Index: 505
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: YUhNLCjN0M
+Annotation Text: the share to which said beneficiary would be entitled
+Start Index: 470
+End Index: 523
+Annotation Labels: ['ASSET']
+---
+Entity ID: VV3n-6noKW
+Annotation Text: said beneficiary
+Start Index: 528
+End Index: 544
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: aCaNcq9yWa
+Annotation Text: me
+Start Index: 554
+End Index: 556
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: dnOhfVo2Hr
+Annotation Text: my
+Start Index: 615
+End Index: 617
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: CiYQsoUCe1
+Annotation Text: my remaining surviving children
+Start Index: 615
+End Index: 646
+Annotation Labels: ['BENEFICIARY']
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: sUqFfchJR8
+from_id: XfZ3ZbznpT
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: piOJEBDRRM
+from_id: wBRce1Mrik
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: BYDWCsqCkr
+from_id: zktqj51ep5
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: EC5UO_2iQS
+from_id: zktqj51ep5
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: YZ5M9QELxC
+from_id: zktqj51ep5
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: -60y-Ri4FN
+from_id: U46YgwF8Y6
+---
+Relation Labels: ['TESTATOR-BENEFICIARY']
+to_id: CiYQsoUCe1
+from_id: dnOhfVo2Hr
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: piOJEBDRRM
+from_id: BYDWCsqCkr
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: piOJEBDRRM
+from_id: EC5UO_2iQS
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: piOJEBDRRM
+from_id: YZ5M9QELxC
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: YUhNLCjN0M
+from_id: f9V-x-5TpC
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: YUhNLCjN0M
+from_id: CiYQsoUCe1
+---
+===================================
+Will Text: FIFTH: I hereby nominate, constitute and appoint my beloved spouse, [Person-2], to serve as Personal Representative without bond of this my Last Will and Testament and in the event my spouse is not living at the time of my death or declines to act or is disabled from acting, I hereby nominate, constitute and appoint [Person-3] to serve as Personal Representative, without bond, in place of my spouse.
+---
+Annotation ID: 19095826
+---
+Entity ID: suZlmmptOZ
+Annotation Text: I
+Start Index: 7
+End Index: 8
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 4Et0Du-YmI
+Annotation Text: my
+Start Index: 49
+End Index: 51
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: DeX99H9PEV
+Annotation Text: this
+Start Index: 132
+End Index: 136
+Annotation Labels: ['WILL']
+---
+Entity ID: 2jmVa_B2D3
+Annotation Text: my
+Start Index: 137
+End Index: 139
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: R6BS4hapyc
+Annotation Text: my Last Will and Testament
+Start Index: 137
+End Index: 163
+Annotation Labels: ['WILL']
+---
+Entity ID: MpNKR8PeZN
+Annotation Text: my
+Start Index: 181
+End Index: 183
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: BLeyqr48LU
+Annotation Text: my
+Start Index: 220
+End Index: 222
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: NIYOKLyj_M
+Annotation Text: I
+Start Index: 276
+End Index: 277
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: YoQ1Ubka0Z
+Annotation Text: my
+Start Index: 392
+End Index: 394
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: DeX99H9PEV
+from_id: 2jmVa_B2D3
+---
+===================================
+Will Text: IN WITNESS WHEREOF, I, [Person-1], the Testatrix, sign my name to this instrument this [Date-1], and being first duly sworn, do hereby declare to the undersigned authority that I sign and execute this instrument as my Last Will and that I sign it willingly, that I execute it as my free and voluntary act for the purposes therein expressed, and that I am eighteen (18) years of age or older, of sound mind, and under no constraint or undue influence.
+---
+Annotation ID: 19095929
+---
+Entity ID: _xalvt7Fc8
+Annotation Text: I
+Start Index: 20
+End Index: 21
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: Ot98bEB-gb
+Annotation Text: [Person-1]
+Start Index: 23
+End Index: 33
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 2pyj-EMkJ_
+Annotation Text: the Testatrix
+Start Index: 35
+End Index: 48
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ly0C6_ppaE
+Annotation Text: my
+Start Index: 55
+End Index: 57
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 2e2nOWObfk
+Annotation Text: this instrument
+Start Index: 66
+End Index: 81
+Annotation Labels: ['WILL']
+---
+Entity ID: TST09O4mBm
+Annotation Text: I 
+Start Index: 177
+End Index: 178
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: I7wNtVPE_h
+Annotation Text: this instrument
+Start Index: 196
+End Index: 211
+Annotation Labels: ['WILL']
+---
+Entity ID: RSWuQ4YPxG
+Annotation Text: my
+Start Index: 215
+End Index: 217
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: HK70uo_vGZ
+Annotation Text: my Last Will
+Start Index: 215
+End Index: 227
+Annotation Labels: ['WILL']
+---
+Entity ID: hDqPHnK15r
+Annotation Text: I
+Start Index: 237
+End Index: 238
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: URhfD_C7OZ
+Annotation Text: it
+Start Index: 244
+End Index: 246
+Annotation Labels: ['WILL']
+---
+Entity ID: GmnvVHDqCM
+Annotation Text: I 
+Start Index: 263
+End Index: 264
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: karwx9iVd7
+Annotation Text: it
+Start Index: 273
+End Index: 275
+Annotation Labels: ['WILL']
+---
+Entity ID: 1xnHI-ZuA6
+Annotation Text: my
+Start Index: 279
+End Index: 281
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: UTTeO8wOfk
+Annotation Text: I 
+Start Index: 350
+End Index: 351
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: 2e2nOWObfk
+from_id: ly0C6_ppaE
+---
+===================================
+Will Text: We, [Person-6] and [Person-7], the witnesses, sign our names to this instrument, being first duly sworn, and do hereby declare to the undersigned authority that the Testatrix signs and executes this instrument as her Last Will and that she signs it willingly and that each of us, in the presence and hearing of the Testatrix hereby signs this Will as witness to the Testatrix signing, and that to the best of our knowledge the Testatrix is eighteen (18) years of age or older, of sound mind, and under no constraint or undue influence.
+---
+Annotation ID: 19096001
+---
+Entity ID: Dmm3kaaUC7
+Annotation Text: this instrument
+Start Index: 64
+End Index: 79
+Annotation Labels: ['WILL']
+---
+Entity ID: 1i7jwRXjZx
+Annotation Text: the Testatrix 
+Start Index: 161
+End Index: 174
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ZY_DsZyxgs
+Annotation Text: this instrument
+Start Index: 194
+End Index: 209
+Annotation Labels: ['WILL']
+---
+Entity ID: dwkjW_nKJr
+Annotation Text: her
+Start Index: 213
+End Index: 216
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 8DE8uDfEm4
+Annotation Text: her Last Will
+Start Index: 213
+End Index: 226
+Annotation Labels: ['WILL']
+---
+Entity ID: sS4X2N6mub
+Annotation Text: she
+Start Index: 236
+End Index: 239
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: ySaNG2pyaS
+Annotation Text: it 
+Start Index: 246
+End Index: 248
+Annotation Labels: ['WILL']
+---
+Entity ID: ONr8fRCuDN
+Annotation Text: the Testatrix
+Start Index: 311
+End Index: 324
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: gF4dE3Yfgo
+Annotation Text: this Will
+Start Index: 338
+End Index: 347
+Annotation Labels: ['WILL']
+---
+Entity ID: 1_2U9YZe3r
+Annotation Text: the Testatrix
+Start Index: 362
+End Index: 375
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: 1ereBLjfIK
+Annotation Text: the Testatrix
+Start Index: 423
+End Index: 436
+Annotation Labels: ['TESTATOR']
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: ZY_DsZyxgs
+from_id: dwkjW_nKJr
+---
+===================================
