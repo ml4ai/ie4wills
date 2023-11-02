@@ -35,7 +35,7 @@ To transform raw datasets into evaluation datasets, run `raw_to_evaluation_datas
 
 ### Prompt
 
-You can find the prompts used for the LLM evaluation in `./docs` (`evaluation_prompt_for_entity.txt`, `evaluation_prompt_for_relation.txt`)
+You can find the prompts used for the LLM evaluation in `./prompt` (`evaluation_prompt_for_entity.txt`, `evaluation_prompt_for_relation.txt`)
 
 ## License
 
