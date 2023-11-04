@@ -41,6 +41,22 @@ You can find the prompts used for the LLM evaluation in `./prompt` (`evaluation_
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. See [LICENSE.md](https://github.com/ml4ai/ei4wills/blob/main/LICENSE.md) for more details.
 
+## Paper
+
+If you use this data or code, please cite our paper: 
+
+```
+@inproceedings{kwak-et-al-emnlp2023-ie4wills,
+    title = "Information Extraction from Legal Wills: How Well Does GPT-4 Do?",
+    author = "Alice Kwak and Cheonkam Jeong and Gaetano Forte and Derek Bambauer and Clayton Morrison and Mihai Surdeanu",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    url = "https://clulab.org/papers/emnlp2023_kwak-et-al.pdf",
+    abstract = "This work presents a manually annotated dataset for Information Extraction (IE) from legal wills, and relevant in-context learning experiments on the dataset. The dataset consists of entities, binary relations between the entities (e.g., relations between testator and beneficiary), and n-ary events (e.g., bequest) extracted from 45 legal wills from two US states. This dataset can serve as a foundation for downstream tasks in the legal domain. Another use case of this dataset is evaluating the performance of large language models (LLMs) on this IE task. We evaluated GPT-4 with our dataset to investigate its ability to extract information from legal wills. Our evaluation result demonstrates that the model is capable of handling the task reasonably well. When given instructions and examples as a prompt, GPT-4 shows decent performance for both entity extraction and relation extraction tasks. Nevertheless, the evaluation result also reveals that the model is not perfect. We observed inconsistent outputs (given a prompt) as well as prompt over-generalization."
+}
+```
+
 ## Contact
 
 If you have any questions or comments on our work, please contact the person below.
