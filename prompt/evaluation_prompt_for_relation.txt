@@ -1,0 +1,93 @@
+%%Instructions: Your task is to identify relations between TESTATOR and BENEFICIARY, TESTATOR and ASSET, BENEFICIARY and ASSET, and TESTATOR and WILL from the will statement provided.  Refer to the example, entities and the extracted relations below as a guide to accurately complete the task. Fill in the relevant information for each relation category mentioned.
+%%Example:
+Will Text: ARTICLE 3. All the rest. residue and remainder of the property which I may own at my death, real, personal or mixed, tangible or intangible, of whatsoever nature and wheresoever situated including all property which I may acquire or become entitled to after the execution of this Will I bequeath and devise to my husband, [Person-3], if he be living at my death, and if he is not living at my death, I bequeath and devise this property to my son [Person-2].
+---
+Entity ID: jiZ94GhpJ2
+Annotation Text: I
+Start Index: 69
+End Index: 70
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: r1PFNvb4TP 
+Annotation Text: my
+Start Index: 82
+End Index: 84
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: XaId8o387W
+Annotation Text: I
+Start Index: 285
+End Index: 286
+Annotation Labels: ['TESTATOR']
+---
+Entity ID: p-ge7sWfXg
+Annotation Text: husband
+Start Index: 313
+End Index: 320
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 0auMstan8k
+Annotation Text: this property
+Start Index: 422
+End Index: 435
+Annotation Labels: ['ASSET']
+---
+Entity ID: s6vkH7t-oV
+Annotation Text: son
+Start Index: 442
+End Index: 445
+Annotation Labels: ['BENEFICIARY']
+---
+Entity ID: 2WKrJhLPbY
+Annotation Text: All the rest. residue and remainder of the property
+Start Index: 11
+End Index: 62
+Annotation Labels: ['ASSET']
+---
+Entity ID: W7FNSwf11G
+Annotation Text: real, personal or mixed, tangible or intangible, of whatsoever nature and wheresoever situated including all property which I may acquire or become entitled to after the execution of this Will
+Start Index: 92
+End Index: 284
+Annotation Labels: ['ASSET']
+---
+Entity ID: KfWEQSwnGX
+Annotation Text: this Will
+Start Index: 275
+End Index: 284
+Annotation Labels: ['WILL']
+---
+Entity ID: p-ge7sWfXg
+Annotation Text: husband
+Start Index: 313
+End Index: 320
+Annotation Labels: ['BENEFICIARY']
+---
+Relation Labels: [‘TESTATOR-BENEFICIARY’]
+To_id: p-ge7sWfXg
+From_id: r1PFNvb4TP
+---
+Relation Labels: [‘TESTATOR-BENEFICIARY’]
+To_id: s6vkH7t-oV
+From_id: r1PFNvb4TP
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: 2WKrJhLPbY
+from_id: jiZ94GhpJ2
+---
+Relation Labels: ['TESTATOR-ASSET']
+to_id: W7FNSwf11G
+from_id: r1PFNvb4TP
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: W7FNSwf11G
+from_id: p-ge7sWfXg
+---
+Relation Labels: ['BENEFICIARY-ASSET']
+to_id: 0auMstan8k
+from_id: s6vkH7t-oV
+---
+Relation Labels: ['TESTATOR-WILL']
+to_id: KfWEQSwnGX
+from_id: XaId8o387W
+---
+%%Extract the relevant information from the following will statement and complete the form provided below:
